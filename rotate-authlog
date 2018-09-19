@@ -1,0 +1,13 @@
+/var/log/auth.log
+{
+	su root syslog
+	rotate 4
+	missingok
+	notifempty
+	compress
+	delaycompress
+	sharedscripts
+	postrotate
+		invoke-rc.d rsyslog rotate > /dev/null
+	endscript
+}

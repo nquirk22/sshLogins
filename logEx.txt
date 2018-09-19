@@ -1,0 +1,19 @@
+./support.py
+==> file : auth.log.test
+Jun 23 12:57:47 scotty sshd[22848]: Failed password for invalid user foo from 127.0.0.1 port 34406 ssh2
+Jun 23 12:57:53 scotty sshd[22848]: Failed password for invalid user foo from 127.0.0.1 port 34406 ssh2
+Jun 23 12:57:59 scotty sshd[22848]: Failed password for invalid user foo from 127.0.0.1 port 34406 ssh2
+Jun 23 12:58:17 scotty sshd[22860]: Failed password for root from 127.0.0.1 port 34408 ssh2
+Jun 23 12:58:22 scotty sshd[22860]: Failed password for root from 127.0.0.1 port 34408 ssh2
+Jun 23 12:58:42 scotty sshd[22869]: Failed password for newuser from 127.0.0.1 port 34412 ssh2
+Jun 23 12:59:07 scotty sshd[22876]: Failed password for newuser from 127.0.0.1 port 34414 ssh2
+Jun 23 12:59:12 scotty sshd[22876]: Failed password for newuser from 127.0.0.1 port 34414 ssh2
+Jun 23 12:59:18 scotty sshd[22876]: Accepted password for newuser from 127.0.0.1 port 34414 ssh2
+Jun 23 13:01:39 scotty sshd[23036]: Failed password for invalid user bar from 2605:0:103:200:144:26:62:134 port 59996 ssh2
+Jun 23 13:01:43 scotty sshd[23036]: Failed password for invalid user bar from 2605:0:103:200:144:26:62:134 port 59996 ssh2
+Jun 23 13:02:05 scotty sshd[23041]: Failed password for newuser from 2605:0:103:200:144:26:62:134 port 59998 ssh2
+Jun 23 13:02:14 scotty sshd[23041]: Accepted password for newuser from 2605:0:103:200:144:26:62:134 port 59998 ssh2
+Jun 23 13:02:43 scotty sshd[23141]: Accepted password for newuser from 2605:0:103:200:144:26:62:134 port 60000 ssh2
+Jun 23 13:03:11 scotty sshd[23238]: Failed password for root from 2605:0:103:200:144:26:62:134 port 60002 ssh2
+Jun 23 13:03:35 scotty sshd[23244]: Failed password for newuser from 2605:0:103:200:144:26:62:134 port 60006 ssh2
+Jun 23 13:03:40 scotty sshd[23244]: Failed password for newuser from 2605:0:103:200:144:26:62:134 port 60006 ssh2

@@ -1,0 +1,37 @@
+{% extends 'base.html' %}
+ 
+{% block subtitle %}- By IP{% endblock %}
+ 
+ 
+{% block content %}
+
+
+<div class="row">
+	<div class="columnLeft">
+		<h3>IPs</h3>
+		{% for ip in ips %}
+			<a href="/logins/byIP/{{ ip }}">{{ ip }}</a>
+			<br />
+		{% endfor %}
+	</div><!-- end first column -->
+	{% if fails %}
+	<div class="columnRight">		
+		<h3>ip = "{{ ip }}"</h3>							
+		<table class="index">
+			<th>initiated</th>
+			<th>login</th>
+			<th>ipaddr</th>
+			{% for fail in fails %}		
+			<tr class="index">
+				<td>{{ fail.initiated }}</td>
+				<td>{{ fail.login }}</td>
+				<td>{{ fail.ip }}</td>
+			</tr>
+			{% endfor %}
+		</table>
+	</div><!-- end second column -->
+	{% endif %}
+</div><!-- end row div -->
+
+
+{% endblock %}

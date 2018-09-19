@@ -1,0 +1,252 @@
+
+==> processing: /var/log/auth.log on 2018-07-02 00:10:01.427703
+already logged: ( 2018-07-01 09:11:06, foobar, 2605:0:103:200:144:26:62:136
+
+==> processing: /var/log/auth.log.1 on 2018-07-02 00:10:01.443687
+already logged: ( 2018-06-29 02:29:46, adama, 127.0.0.1
+already logged: ( 2018-06-29 02:31:54, starbuck, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 02:32:25, root, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 02:43:47, six, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 02:44:18, baltar, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 03:03:49, starbuck, 127.0.0.1
+already logged: ( 2018-06-29 03:23:21, tigh, 127.0.0.1
+already logged: ( 2018-06-29 11:31:53, cylon, 127.0.0.1
+already logged: ( 2018-06-29 15:36:44, hyperion, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 15:37:09, emdymion, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 15:38:03, shrike, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-30 10:07:37, nquirk22, 127.0.0.1
+already logged: ( 2018-06-30 10:08:51, instructor, 127.0.0.1
+
+==> processing: /var/log/auth.log on 2018-07-02 01:10:01.842472
+already logged: ( 2018-07-01 09:11:06, foobar, 2605:0:103:200:144:26:62:136
+
+==> processing: /var/log/auth.log.1 on 2018-07-02 01:10:01.857944
+already logged: ( 2018-06-29 02:29:46, adama, 127.0.0.1
+already logged: ( 2018-06-29 02:31:54, starbuck, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 02:32:25, root, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 02:43:47, six, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 02:44:18, baltar, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 03:03:49, starbuck, 127.0.0.1
+already logged: ( 2018-06-29 03:23:21, tigh, 127.0.0.1
+already logged: ( 2018-06-29 11:31:53, cylon, 127.0.0.1
+already logged: ( 2018-06-29 15:36:44, hyperion, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 15:37:09, emdymion, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 15:38:03, shrike, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-30 10:07:37, nquirk22, 127.0.0.1
+already logged: ( 2018-06-30 10:08:51, instructor, 127.0.0.1
+
+==> processing: /var/log/auth.log on 2018-07-02 02:10:02.246209
+already logged: ( 2018-07-01 09:11:06, foobar, 2605:0:103:200:144:26:62:136
+
+==> processing: /var/log/auth.log.1 on 2018-07-02 02:10:02.262309
+already logged: ( 2018-06-29 02:29:46, adama, 127.0.0.1
+already logged: ( 2018-06-29 02:31:54, starbuck, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 02:32:25, root, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 02:43:47, six, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 02:44:18, baltar, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 03:03:49, starbuck, 127.0.0.1
+already logged: ( 2018-06-29 03:23:21, tigh, 127.0.0.1
+already logged: ( 2018-06-29 11:31:53, cylon, 127.0.0.1
+already logged: ( 2018-06-29 15:36:44, hyperion, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 15:37:09, emdymion, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 15:38:03, shrike, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-30 10:07:37, nquirk22, 127.0.0.1
+already logged: ( 2018-06-30 10:08:51, instructor, 127.0.0.1
+
+==> processing: /var/log/auth.log on 2018-07-02 03:10:01.627431
+already logged: ( 2018-07-01 09:11:06, foobar, 2605:0:103:200:144:26:62:136
+
+==> processing: /var/log/auth.log.1 on 2018-07-02 03:10:01.643246
+already logged: ( 2018-06-29 02:29:46, adama, 127.0.0.1
+already logged: ( 2018-06-29 02:31:54, starbuck, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 02:32:25, root, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 02:43:47, six, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 02:44:18, baltar, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 03:03:49, starbuck, 127.0.0.1
+already logged: ( 2018-06-29 03:23:21, tigh, 127.0.0.1
+already logged: ( 2018-06-29 11:31:53, cylon, 127.0.0.1
+already logged: ( 2018-06-29 15:36:44, hyperion, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 15:37:09, emdymion, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 15:38:03, shrike, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-30 10:07:37, nquirk22, 127.0.0.1
+already logged: ( 2018-06-30 10:08:51, instructor, 127.0.0.1
+
+==> processing: /var/log/auth.log on 2018-07-02 04:10:02.031952
+already logged: ( 2018-07-01 09:11:06, foobar, 2605:0:103:200:144:26:62:136
+
+==> processing: /var/log/auth.log.1 on 2018-07-02 04:10:02.047353
+already logged: ( 2018-06-29 02:29:46, adama, 127.0.0.1
+already logged: ( 2018-06-29 02:31:54, starbuck, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 02:32:25, root, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 02:43:47, six, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 02:44:18, baltar, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 03:03:49, starbuck, 127.0.0.1
+already logged: ( 2018-06-29 03:23:21, tigh, 127.0.0.1
+already logged: ( 2018-06-29 11:31:53, cylon, 127.0.0.1
+already logged: ( 2018-06-29 15:36:44, hyperion, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 15:37:09, emdymion, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 15:38:03, shrike, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-30 10:07:37, nquirk22, 127.0.0.1
+already logged: ( 2018-06-30 10:08:51, instructor, 127.0.0.1
+
+==> processing: /var/log/auth.log on 2018-07-02 05:10:01.434021
+already logged: ( 2018-07-01 09:11:06, foobar, 2605:0:103:200:144:26:62:136
+
+==> processing: /var/log/auth.log.1 on 2018-07-02 05:10:01.449686
+already logged: ( 2018-06-29 02:29:46, adama, 127.0.0.1
+already logged: ( 2018-06-29 02:31:54, starbuck, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 02:32:25, root, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 02:43:47, six, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 02:44:18, baltar, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 03:03:49, starbuck, 127.0.0.1
+already logged: ( 2018-06-29 03:23:21, tigh, 127.0.0.1
+already logged: ( 2018-06-29 11:31:53, cylon, 127.0.0.1
+already logged: ( 2018-06-29 15:36:44, hyperion, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 15:37:09, emdymion, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 15:38:03, shrike, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-30 10:07:37, nquirk22, 127.0.0.1
+already logged: ( 2018-06-30 10:08:51, instructor, 127.0.0.1
+
+==> processing: /var/log/auth.log on 2018-07-02 06:10:01.840158
+already logged: ( 2018-07-01 09:11:06, foobar, 2605:0:103:200:144:26:62:136
+
+==> processing: /var/log/auth.log.1 on 2018-07-02 06:10:01.856260
+already logged: ( 2018-06-29 02:29:46, adama, 127.0.0.1
+already logged: ( 2018-06-29 02:31:54, starbuck, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 02:32:25, root, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 02:43:47, six, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 02:44:18, baltar, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 03:03:49, starbuck, 127.0.0.1
+already logged: ( 2018-06-29 03:23:21, tigh, 127.0.0.1
+already logged: ( 2018-06-29 11:31:53, cylon, 127.0.0.1
+already logged: ( 2018-06-29 15:36:44, hyperion, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 15:37:09, emdymion, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 15:38:03, shrike, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-30 10:07:37, nquirk22, 127.0.0.1
+already logged: ( 2018-06-30 10:08:51, instructor, 127.0.0.1
+
+==> processing: /var/log/auth.log on 2018-07-02 07:10:02.226041
+already logged: ( 2018-07-01 09:11:06, foobar, 2605:0:103:200:144:26:62:136
+
+==> processing: /var/log/auth.log.1 on 2018-07-02 07:10:02.241921
+already logged: ( 2018-06-29 02:29:46, adama, 127.0.0.1
+already logged: ( 2018-06-29 02:31:54, starbuck, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 02:32:25, root, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 02:43:47, six, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 02:44:18, baltar, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 03:03:49, starbuck, 127.0.0.1
+already logged: ( 2018-06-29 03:23:21, tigh, 127.0.0.1
+already logged: ( 2018-06-29 11:31:53, cylon, 127.0.0.1
+already logged: ( 2018-06-29 15:36:44, hyperion, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 15:37:09, emdymion, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 15:38:03, shrike, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-30 10:07:37, nquirk22, 127.0.0.1
+already logged: ( 2018-06-30 10:08:51, instructor, 127.0.0.1
+
+==> processing: /var/log/auth.log on 2018-07-02 08:10:01.873692
+already logged: ( 2018-07-01 09:11:06, foobar, 2605:0:103:200:144:26:62:136
+
+==> processing: /var/log/auth.log.1 on 2018-07-02 08:10:01.895001
+already logged: ( 2018-06-29 02:29:46, adama, 127.0.0.1
+already logged: ( 2018-06-29 02:31:54, starbuck, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 02:32:25, root, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 02:43:47, six, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 02:44:18, baltar, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 03:03:49, starbuck, 127.0.0.1
+already logged: ( 2018-06-29 03:23:21, tigh, 127.0.0.1
+already logged: ( 2018-06-29 11:31:53, cylon, 127.0.0.1
+already logged: ( 2018-06-29 15:36:44, hyperion, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 15:37:09, emdymion, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 15:38:03, shrike, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-30 10:07:37, nquirk22, 127.0.0.1
+already logged: ( 2018-06-30 10:08:51, instructor, 127.0.0.1
+
+==> processing: /var/log/auth.log on 2018-07-02 09:10:01.397846
+already logged: ( 2018-07-01 09:11:06, foobar, 2605:0:103:200:144:26:62:136
+
+==> processing: /var/log/auth.log.1 on 2018-07-02 09:10:01.413411
+already logged: ( 2018-06-29 02:29:46, adama, 127.0.0.1
+already logged: ( 2018-06-29 02:31:54, starbuck, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 02:32:25, root, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 02:43:47, six, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 02:44:18, baltar, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 03:03:49, starbuck, 127.0.0.1
+already logged: ( 2018-06-29 03:23:21, tigh, 127.0.0.1
+already logged: ( 2018-06-29 11:31:53, cylon, 127.0.0.1
+already logged: ( 2018-06-29 15:36:44, hyperion, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 15:37:09, emdymion, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 15:38:03, shrike, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-30 10:07:37, nquirk22, 127.0.0.1
+already logged: ( 2018-06-30 10:08:51, instructor, 127.0.0.1
+
+==> processing: /var/log/auth.log on 2018-07-02 10:10:01.762836
+already logged: ( 2018-07-01 09:11:06, foobar, 2605:0:103:200:144:26:62:136
+
+==> processing: /var/log/auth.log.1 on 2018-07-02 10:10:01.778204
+already logged: ( 2018-06-29 02:29:46, adama, 127.0.0.1
+already logged: ( 2018-06-29 02:31:54, starbuck, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 02:32:25, root, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 02:43:47, six, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 02:44:18, baltar, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 03:03:49, starbuck, 127.0.0.1
+already logged: ( 2018-06-29 03:23:21, tigh, 127.0.0.1
+already logged: ( 2018-06-29 11:31:53, cylon, 127.0.0.1
+already logged: ( 2018-06-29 15:36:44, hyperion, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 15:37:09, emdymion, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 15:38:03, shrike, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-30 10:07:37, nquirk22, 127.0.0.1
+already logged: ( 2018-06-30 10:08:51, instructor, 127.0.0.1
+
+==> processing: /var/log/auth.log on 2018-07-02 11:10:02.149405
+already logged: ( 2018-07-01 09:11:06, foobar, 2605:0:103:200:144:26:62:136
+
+==> processing: /var/log/auth.log.1 on 2018-07-02 11:10:02.165329
+already logged: ( 2018-06-29 02:29:46, adama, 127.0.0.1
+already logged: ( 2018-06-29 02:31:54, starbuck, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 02:32:25, root, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 02:43:47, six, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 02:44:18, baltar, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 03:03:49, starbuck, 127.0.0.1
+already logged: ( 2018-06-29 03:23:21, tigh, 127.0.0.1
+already logged: ( 2018-06-29 11:31:53, cylon, 127.0.0.1
+already logged: ( 2018-06-29 15:36:44, hyperion, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 15:37:09, emdymion, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 15:38:03, shrike, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-30 10:07:37, nquirk22, 127.0.0.1
+already logged: ( 2018-06-30 10:08:51, instructor, 127.0.0.1
+
+==> processing: /var/log/auth.log on 2018-07-02 12:10:01.549941
+already logged: ( 2018-07-01 09:11:06, foobar, 2605:0:103:200:144:26:62:136
+
+==> processing: /var/log/auth.log.1 on 2018-07-02 12:10:01.565795
+already logged: ( 2018-06-29 02:29:46, adama, 127.0.0.1
+already logged: ( 2018-06-29 02:31:54, starbuck, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 02:32:25, root, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 02:43:47, six, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 02:44:18, baltar, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 03:03:49, starbuck, 127.0.0.1
+already logged: ( 2018-06-29 03:23:21, tigh, 127.0.0.1
+already logged: ( 2018-06-29 11:31:53, cylon, 127.0.0.1
+already logged: ( 2018-06-29 15:36:44, hyperion, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 15:37:09, emdymion, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 15:38:03, shrike, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-30 10:07:37, nquirk22, 127.0.0.1
+already logged: ( 2018-06-30 10:08:51, instructor, 127.0.0.1
+
+==> processing: /var/log/auth.log on 2018-07-02 13:10:01.955934
+already logged: ( 2018-07-01 09:11:06, foobar, 2605:0:103:200:144:26:62:136
+
+==> processing: /var/log/auth.log.1 on 2018-07-02 13:10:01.972477
+already logged: ( 2018-06-29 02:29:46, adama, 127.0.0.1
+already logged: ( 2018-06-29 02:31:54, starbuck, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 02:32:25, root, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 02:43:47, six, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 02:44:18, baltar, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 03:03:49, starbuck, 127.0.0.1
+already logged: ( 2018-06-29 03:23:21, tigh, 127.0.0.1
+already logged: ( 2018-06-29 11:31:53, cylon, 127.0.0.1
+already logged: ( 2018-06-29 15:36:44, hyperion, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 15:37:09, emdymion, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-29 15:38:03, shrike, 2605:0:103:200:144:26:62:134
+already logged: ( 2018-06-30 10:07:37, nquirk22, 127.0.0.1
+already logged: ( 2018-06-30 10:08:51, instructor, 127.0.0.1

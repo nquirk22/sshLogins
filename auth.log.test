@@ -1,0 +1,1659 @@
+Jun 17 00:17:01 scotty CRON[22064]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 00:17:01 scotty CRON[22064]: pam_unix(cron:session): session closed for user root
+Jun 17 01:17:01 scotty CRON[22553]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 01:17:01 scotty CRON[22553]: pam_unix(cron:session): session closed for user root
+Jun 17 02:17:01 scotty CRON[23008]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 02:17:01 scotty CRON[23008]: pam_unix(cron:session): session closed for user root
+Jun 17 03:17:01 scotty CRON[23781]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 03:17:01 scotty CRON[23781]: pam_unix(cron:session): session closed for user root
+Jun 17 04:17:01 scotty CRON[24257]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 04:17:01 scotty CRON[24257]: pam_unix(cron:session): session closed for user root
+Jun 17 05:17:01 scotty CRON[24714]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 05:17:01 scotty CRON[24714]: pam_unix(cron:session): session closed for user root
+Jun 17 06:12:01 scotty CRON[25149]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 06:12:01 scotty CRON[25149]: pam_unix(cron:session): session closed for user root
+Jun 17 06:17:01 scotty CRON[25187]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 06:17:01 scotty CRON[25187]: pam_unix(cron:session): session closed for user root
+Jun 17 06:25:01 scotty CRON[25308]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 06:25:01 scotty CRON[25308]: pam_unix(cron:session): session closed for user root
+Jun 17 06:47:01 scotty CRON[25478]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 06:47:01 scotty CRON[25478]: pam_unix(cron:session): session closed for user root
+Jun 17 07:17:01 scotty CRON[25774]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 07:17:01 scotty CRON[25774]: pam_unix(cron:session): session closed for user root
+Jun 17 07:30:01 scotty CRON[25878]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 07:30:01 scotty CRON[25878]: pam_unix(cron:session): session closed for user root
+Jun 17 08:17:01 scotty CRON[26239]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 08:17:01 scotty CRON[26239]: pam_unix(cron:session): session closed for user root
+Jun 17 09:17:01 scotty CRON[26699]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 09:17:01 scotty CRON[26699]: pam_unix(cron:session): session closed for user root
+Jun 17 10:17:01 scotty CRON[27211]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 10:17:01 scotty CRON[27211]: pam_unix(cron:session): session closed for user root
+Jun 17 11:17:01 scotty CRON[27665]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 11:17:01 scotty CRON[27665]: pam_unix(cron:session): session closed for user root
+Jun 17 12:17:01 scotty CRON[28130]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 12:17:01 scotty CRON[28130]: pam_unix(cron:session): session closed for user root
+Jun 17 13:17:01 scotty CRON[28588]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 13:17:01 scotty CRON[28588]: pam_unix(cron:session): session closed for user root
+Jun 17 14:17:01 scotty CRON[29065]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 14:17:01 scotty CRON[29065]: pam_unix(cron:session): session closed for user root
+Jun 17 15:17:01 scotty CRON[29524]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 15:17:01 scotty CRON[29524]: pam_unix(cron:session): session closed for user root
+Jun 17 16:17:01 scotty CRON[29979]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 16:17:01 scotty CRON[29979]: pam_unix(cron:session): session closed for user root
+Jun 17 17:17:01 scotty CRON[30418]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 17:17:01 scotty CRON[30418]: pam_unix(cron:session): session closed for user root
+Jun 17 18:17:01 scotty CRON[30878]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 18:17:01 scotty CRON[30878]: pam_unix(cron:session): session closed for user root
+Jun 17 19:17:01 scotty CRON[31379]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 19:17:01 scotty CRON[31379]: pam_unix(cron:session): session closed for user root
+Jun 17 20:17:01 scotty CRON[31819]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 20:17:01 scotty CRON[31819]: pam_unix(cron:session): session closed for user root
+Jun 17 21:17:01 scotty CRON[32270]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 21:17:01 scotty CRON[32270]: pam_unix(cron:session): session closed for user root
+Jun 17 22:17:01 scotty CRON[32727]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 22:17:01 scotty CRON[32727]: pam_unix(cron:session): session closed for user root
+Jun 17 23:17:01 scotty CRON[723]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 17 23:17:01 scotty CRON[723]: pam_unix(cron:session): session closed for user root
+Jun 18 00:17:01 scotty CRON[1398]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 00:17:02 scotty CRON[1398]: pam_unix(cron:session): session closed for user root
+Jun 18 01:17:01 scotty CRON[1854]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 01:17:01 scotty CRON[1854]: pam_unix(cron:session): session closed for user root
+Jun 18 02:17:01 scotty CRON[2363]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 02:17:01 scotty CRON[2363]: pam_unix(cron:session): session closed for user root
+Jun 18 03:17:01 scotty CRON[2832]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 03:17:01 scotty CRON[2832]: pam_unix(cron:session): session closed for user root
+Jun 18 04:17:01 scotty CRON[3300]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 04:17:01 scotty CRON[3300]: pam_unix(cron:session): session closed for user root
+Jun 18 05:17:01 scotty CRON[3760]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 05:17:01 scotty CRON[3760]: pam_unix(cron:session): session closed for user root
+Jun 18 06:12:01 scotty CRON[4245]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 06:12:01 scotty CRON[4245]: pam_unix(cron:session): session closed for user root
+Jun 18 06:17:01 scotty CRON[4287]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 06:17:01 scotty CRON[4287]: pam_unix(cron:session): session closed for user root
+Jun 18 06:25:01 scotty CRON[4354]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 06:25:01 scotty CRON[4354]: pam_unix(cron:session): session closed for user root
+Jun 18 07:17:01 scotty CRON[4754]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 07:17:01 scotty CRON[4754]: pam_unix(cron:session): session closed for user root
+Jun 18 07:30:01 scotty CRON[4853]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 07:30:01 scotty CRON[4853]: pam_unix(cron:session): session closed for user root
+Jun 18 08:17:01 scotty CRON[5210]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 08:17:01 scotty CRON[5210]: pam_unix(cron:session): session closed for user root
+Jun 18 09:17:01 scotty CRON[5688]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 09:17:01 scotty CRON[5688]: pam_unix(cron:session): session closed for user root
+Jun 18 10:17:01 scotty CRON[6138]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 10:17:01 scotty CRON[6138]: pam_unix(cron:session): session closed for user root
+Jun 18 11:17:01 scotty CRON[6601]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 11:17:01 scotty CRON[6601]: pam_unix(cron:session): session closed for user root
+Jun 18 12:17:01 scotty CRON[7057]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 12:17:01 scotty CRON[7057]: pam_unix(cron:session): session closed for user root
+Jun 18 13:17:01 scotty CRON[7528]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 13:17:01 scotty CRON[7528]: pam_unix(cron:session): session closed for user root
+Jun 18 14:17:01 scotty CRON[7995]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 14:17:01 scotty CRON[7995]: pam_unix(cron:session): session closed for user root
+Jun 18 15:17:01 scotty CRON[8480]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 15:17:01 scotty CRON[8480]: pam_unix(cron:session): session closed for user root
+Jun 18 16:17:01 scotty CRON[8940]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 16:17:01 scotty CRON[8940]: pam_unix(cron:session): session closed for user root
+Jun 18 17:13:14 scotty lightdm: pam_succeed_if(lightdm:auth): requirement "user ingroup nopasswdlogin" not met by user "nquirk22"
+Jun 18 17:13:18 scotty lightdm: pam_unix(lightdm:session): session opened for user nquirk22 by (uid=0)
+Jun 18 17:13:18 scotty systemd-logind[761]: New session c3 of user nquirk22.
+Jun 18 17:13:18 scotty systemd: pam_unix(systemd-user:session): session opened for user nquirk22 by (uid=0)
+Jun 18 17:13:18 scotty systemd-logind[761]: Removed session c1.
+Jun 18 17:13:20 scotty gnome-keyring-daemon[9706]: The Secret Service was already initialized
+Jun 18 17:13:20 scotty gnome-keyring-daemon[9706]: The SSH agent was already initialized
+Jun 18 17:13:20 scotty gnome-keyring-daemon[9706]: The PKCS#11 component was already initialized
+Jun 18 17:13:20 scotty polkitd(authority=local): Registered Authentication Agent for unix-session:c3 (system bus name :1.97 [/usr/lib/x86_64-linux-gnu/polkit-mate/polkit-mate-authentication-agent-1], object path /org/mate/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Jun 18 17:13:22 scotty pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Jun 18 17:13:22 scotty pkexec[10392]: nquirk22: Executing command [USER=root] [TTY=unknown] [CWD=/home/nquirk22] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Jun 18 17:13:26 scotty gnome-keyring-daemon[9706]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Jun 18 17:13:26 scotty gnome-keyring-daemon[9706]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Jun 18 17:13:46 scotty nxexec: pam_unix(nx:session): session closed for user lightdm
+Jun 18 17:13:46 scotty systemd-logind[761]: Removed session c2.
+Jun 18 17:13:46 scotty systemd: pam_unix(systemd-user:session): session closed for user lightdm
+Jun 18 17:13:46 scotty nxexec: pam_unix(nx:session): session opened for user nquirk22 by (uid=122)
+Jun 18 17:13:46 scotty systemd-logind[761]: New session c4 of user nquirk22.
+Jun 18 17:17:01 scotty CRON[11116]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 17:17:01 scotty CRON[11116]: pam_unix(cron:session): session closed for user root
+Jun 18 17:21:34 scotty sudo: pam_unix(sudo:auth): conversation failed
+Jun 18 17:21:34 scotty sudo: pam_unix(sudo:auth): auth could not identify password for [nquirk22]
+Jun 18 17:21:51 scotty sudo: pam_unix(sudo:auth): conversation failed
+Jun 18 17:21:51 scotty sudo: pam_unix(sudo:auth): auth could not identify password for [nquirk22]
+Jun 18 17:22:01 scotty sudo: pam_unix(sudo:auth): authentication failure; logname= uid=1000 euid=0 tty=/dev/pts/0 ruser=nquirk22 rhost=  user=nquirk22
+Jun 18 17:22:14 scotty sudo: nquirk22 : 3 incorrect password attempts ; TTY=pts/0 ; PWD=/home/nquirk22/Downloads ; USER=root ; COMMAND=/usr/bin/dpkg -i mysql-apt-config_0.8.10-1_all.deb
+Jun 18 17:22:22 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22/Downloads ; USER=root ; COMMAND=/usr/bin/dpkg -i mysql-apt-config_0.8.10-1_all.deb
+Jun 18 17:22:22 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 17:23:05 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 17:23:17 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22/Downloads ; USER=root ; COMMAND=/usr/bin/apt update
+Jun 18 17:23:17 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 17:23:22 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 17:24:10 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22/Downloads ; USER=root ; COMMAND=/usr/bin/apt install mysql-community-server
+Jun 18 17:24:10 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 17:24:38 scotty groupadd[12997]: group added to /etc/group: name=mysql, GID=129
+Jun 18 17:24:38 scotty groupadd[12997]: group added to /etc/gshadow: name=mysql
+Jun 18 17:24:38 scotty groupadd[12997]: new group: name=mysql, GID=129
+Jun 18 17:24:38 scotty useradd[13003]: new user: name=mysql, UID=124, GID=129, home=/var/lib/mysql, shell=/bin/false
+Jun 18 17:24:38 scotty chage[13009]: changed password expiry for mysql
+Jun 18 17:24:39 scotty chfn[13012]: changed user 'mysql' information
+Jun 18 17:24:48 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 17:25:21 scotty pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Jun 18 17:25:21 scotty pkexec[13349]: nquirk22: Executing command [USER=root] [TTY=unknown] [CWD=/home/nquirk22] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Jun 18 17:26:04 scotty su[13364]: Successful su for root by nquirk22
+Jun 18 17:26:04 scotty su[13364]: + /dev/pts/0 nquirk22:root
+Jun 18 17:26:04 scotty su[13364]: pam_unix(su:session): session opened for user root by (uid=1000)
+Jun 18 17:26:04 scotty su[13364]: pam_systemd(su:session): Cannot create session: Already running in a session
+Jun 18 17:28:12 scotty su[13364]: pam_unix(su:session): session closed for user root
+Jun 18 17:28:18 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22/Downloads ; USER=root ; COMMAND=/bin/su
+Jun 18 17:28:18 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 17:28:18 scotty su[13411]: Successful su for root by root
+Jun 18 17:28:18 scotty su[13411]: + /dev/pts/0 root:root
+Jun 18 17:28:18 scotty su[13411]: pam_unix(su:session): session opened for user root by (uid=0)
+Jun 18 17:28:18 scotty su[13411]: pam_systemd(su:session): Cannot create session: Already running in a session
+Jun 18 17:28:52 scotty su[13411]: pam_unix(su:session): session closed for user root
+Jun 18 17:28:52 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 17:29:04 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22/Downloads ; USER=root ; COMMAND=/usr/bin/mysql
+Jun 18 17:29:04 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 17:30:54 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 17:31:05 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22/Downloads ; USER=root ; COMMAND=/usr/bin/printenv
+Jun 18 17:31:05 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 17:31:05 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 17:31:18 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22/Downloads ; USER=root ; COMMAND=/usr/bin/printenv
+Jun 18 17:31:18 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 17:31:18 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 17:32:02 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22/Downloads ; USER=root ; COMMAND=/usr/bin/apt install apache2 php libapache2-mod-php php-cli php-mysql php-cgi php-curl php-json php-apcu php-gd php-xml php-mbstring php-gettext
+Jun 18 17:32:02 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 17:32:36 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 17:34:21 scotty pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Jun 18 17:34:21 scotty pkexec[28502]: nquirk22: Executing command [USER=root] [TTY=unknown] [CWD=/home/nquirk22] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Jun 18 17:39:01 scotty CRON[28603]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 17:39:01 scotty CRON[28603]: pam_unix(cron:session): session closed for user root
+Jun 18 17:39:51 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22/Downloads ; USER=root ; COMMAND=/usr/sbin/apachectl configtest
+Jun 18 17:39:51 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 17:39:51 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 17:41:06 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22/Downloads ; USER=root ; COMMAND=/bin/nano /etc/hosts
+Jun 18 17:41:06 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 17:41:24 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 17:41:38 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22/Downloads ; USER=root ; COMMAND=/usr/sbin/apachectl configtest
+Jun 18 17:41:38 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 17:41:38 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 17:42:07 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22/Downloads ; USER=root ; COMMAND=/usr/sbin/a2enmod userdir
+Jun 18 17:42:07 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 17:42:07 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 17:46:25 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22/Downloads ; USER=root ; COMMAND=/bin/systemctl reload apache2
+Jun 18 17:46:25 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 17:46:26 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 17:54:35 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22/Downloads ; USER=root ; COMMAND=/usr/bin/apt install links
+Jun 18 17:54:35 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 17:54:39 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 17:55:21 scotty pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Jun 18 17:55:21 scotty pkexec[29649]: nquirk22: Executing command [USER=root] [TTY=unknown] [CWD=/home/nquirk22] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Jun 18 17:56:35 scotty polkitd(authority=local): Unregistered Authentication Agent for unix-session:c3 (system bus name :1.97, object path /org/mate/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Jun 18 17:56:35 scotty lightdm: pam_unix(lightdm:session): session closed for user nquirk22
+Jun 18 17:56:35 scotty nxexec: pam_unix(nx:session): session closed for user nquirk22
+Jun 18 17:56:35 scotty systemd-logind[761]: Removed session c4.
+Jun 18 17:56:36 scotty lightdm: PAM unable to dlopen(pam_kwallet.so): /lib/security/pam_kwallet.so: cannot open shared object file: No such file or directory
+Jun 18 17:56:36 scotty lightdm: PAM adding faulty module: pam_kwallet.so
+Jun 18 17:56:36 scotty lightdm: PAM unable to dlopen(pam_kwallet5.so): /lib/security/pam_kwallet5.so: cannot open shared object file: No such file or directory
+Jun 18 17:56:36 scotty lightdm: PAM adding faulty module: pam_kwallet5.so
+Jun 18 17:56:36 scotty lightdm: pam_unix(lightdm-greeter:session): session opened for user lightdm by (uid=0)
+Jun 18 17:56:36 scotty systemd-logind[761]: New session c5 of user lightdm.
+Jun 18 17:56:36 scotty systemd: pam_unix(systemd-user:session): session opened for user lightdm by (uid=0)
+Jun 18 17:56:37 scotty lightdm: PAM unable to dlopen(pam_kwallet.so): /lib/security/pam_kwallet.so: cannot open shared object file: No such file or directory
+Jun 18 17:56:37 scotty lightdm: PAM adding faulty module: pam_kwallet.so
+Jun 18 17:56:37 scotty lightdm: PAM unable to dlopen(pam_kwallet5.so): /lib/security/pam_kwallet5.so: cannot open shared object file: No such file or directory
+Jun 18 17:56:37 scotty lightdm: PAM adding faulty module: pam_kwallet5.so
+Jun 18 17:57:07 scotty nxexec: pam_unix(nx:session): session opened for user lightdm by (uid=122)
+Jun 18 17:57:07 scotty systemd-logind[761]: New session c6 of user lightdm.
+Jun 18 18:09:01 scotty CRON[29991]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 18:09:01 scotty CRON[29991]: pam_unix(cron:session): session closed for user root
+Jun 18 18:17:01 scotty CRON[30051]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 18:17:01 scotty CRON[30051]: pam_unix(cron:session): session closed for user root
+Jun 18 18:39:01 scotty CRON[30217]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 18:39:01 scotty CRON[30217]: pam_unix(cron:session): session closed for user root
+Jun 18 19:09:01 scotty CRON[30503]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 19:09:01 scotty CRON[30503]: pam_unix(cron:session): session closed for user root
+Jun 18 19:17:01 scotty CRON[30631]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 19:17:01 scotty CRON[30631]: pam_unix(cron:session): session closed for user root
+Jun 18 19:35:45 scotty lightdm: pam_unix(lightdm:auth): check pass; user unknown
+Jun 18 19:35:45 scotty lightdm: pam_unix(lightdm:auth): authentication failure; logname= uid=0 euid=0 tty=:0 ruser= rhost=
+Jun 18 19:35:47 scotty lightdm: PAM unable to dlopen(pam_kwallet.so): /lib/security/pam_kwallet.so: cannot open shared object file: No such file or directory
+Jun 18 19:35:47 scotty lightdm: PAM adding faulty module: pam_kwallet.so
+Jun 18 19:35:47 scotty lightdm: PAM unable to dlopen(pam_kwallet5.so): /lib/security/pam_kwallet5.so: cannot open shared object file: No such file or directory
+Jun 18 19:35:47 scotty lightdm: PAM adding faulty module: pam_kwallet5.so
+Jun 18 19:35:49 scotty lightdm: pam_succeed_if(lightdm:auth): requirement "user ingroup nopasswdlogin" not met by user "nquirk22"
+Jun 18 19:35:54 scotty lightdm: pam_unix(lightdm-greeter:session): session closed for user lightdm
+Jun 18 19:35:54 scotty systemd-logind[761]: Removed session c5.
+Jun 18 19:35:54 scotty lightdm: pam_unix(lightdm:session): session opened for user nquirk22 by (uid=0)
+Jun 18 19:35:54 scotty systemd-logind[761]: New session c7 of user nquirk22.
+Jun 18 19:35:56 scotty gnome-keyring-daemon[30789]: The Secret Service was already initialized
+Jun 18 19:35:56 scotty gnome-keyring-daemon[30789]: The SSH agent was already initialized
+Jun 18 19:35:56 scotty gnome-keyring-daemon[30789]: The PKCS#11 component was already initialized
+Jun 18 19:35:56 scotty polkitd(authority=local): Registered Authentication Agent for unix-session:c7 (system bus name :1.161 [/usr/lib/x86_64-linux-gnu/polkit-mate/polkit-mate-authentication-agent-1], object path /org/mate/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Jun 18 19:35:59 scotty pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Jun 18 19:35:59 scotty pkexec[31417]: nquirk22: Executing command [USER=root] [TTY=unknown] [CWD=/home/nquirk22] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Jun 18 19:36:21 scotty nxexec: pam_unix(nx:session): session closed for user lightdm
+Jun 18 19:36:21 scotty systemd-logind[761]: Removed session c6.
+Jun 18 19:36:21 scotty systemd: pam_unix(systemd-user:session): session closed for user lightdm
+Jun 18 19:36:21 scotty nxexec: pam_unix(nx:session): session opened for user nquirk22 by (uid=122)
+Jun 18 19:36:21 scotty systemd-logind[761]: New session c8 of user nquirk22.
+Jun 18 19:39:01 scotty CRON[31834]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 19:39:01 scotty CRON[31834]: pam_unix(cron:session): session closed for user root
+Jun 18 19:39:07 scotty gnome-keyring-daemon[30789]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Jun 18 19:39:07 scotty gnome-keyring-daemon[30789]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Jun 18 19:44:25 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22 ; USER=root ; COMMAND=/usr/bin/touch /etc/apache2/conf-available/local.cnf
+Jun 18 19:44:25 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 19:44:25 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 19:45:10 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22 ; USER=root ; COMMAND=/usr/sbin/a2enconf local
+Jun 18 19:45:10 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 19:45:10 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 19:45:38 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/etc/apache2/conf-available ; USER=root ; COMMAND=/usr/sbin/a2enconf local
+Jun 18 19:45:38 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 19:45:38 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 19:45:54 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/etc/apache2/conf-available ; USER=root ; COMMAND=/usr/sbin/a2enconf local.cnf
+Jun 18 19:45:54 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 19:45:54 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 19:46:51 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/etc/apache2/conf-available ; USER=root ; COMMAND=/usr/sbin/a2enconf local
+Jun 18 19:46:51 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 19:46:51 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 19:52:38 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/etc/apache2/conf-available ; USER=root ; COMMAND=/bin/rm local.cnf
+Jun 18 19:52:38 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 19:52:38 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 19:53:07 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/etc/apache2/conf-available ; USER=root ; COMMAND=/usr/bin/touch /etc/apache2/conf-available/local.conf
+Jun 18 19:53:07 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 19:53:07 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 19:53:17 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/etc/apache2/conf-available ; USER=root ; COMMAND=/usr/sbin/a2enconf local
+Jun 18 19:53:17 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 19:53:17 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 19:53:31 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/etc/apache2/conf-available ; USER=root ; COMMAND=/usr/sbin/a2enconf local
+Jun 18 19:53:31 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 19:53:31 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 19:54:07 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/etc/apache2/conf-available ; USER=root ; COMMAND=/bin/ln -s /etc/apache2/conf-available/local.conf /etc/apache2/
+Jun 18 19:54:07 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 19:54:07 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 19:54:47 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/etc/apache2/conf-available ; USER=root ; COMMAND=/bin/nano local.c
+Jun 18 19:54:47 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 19:54:51 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 19:55:02 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/etc/apache2/conf-available ; USER=root ; COMMAND=/bin/nano local.conf
+Jun 18 19:55:02 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 19:55:14 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 19:55:34 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/etc/apache2/conf-available ; USER=root ; COMMAND=/bin/systemctl reload apache2
+Jun 18 19:55:34 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 19:55:34 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 20:00:33 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/etc/apache2/mods-enabled ; USER=root ; COMMAND=/bin/nano php7.2.conf
+Jun 18 20:00:33 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 20:01:47 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 20:02:20 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/etc/apache2/mods-enabled ; USER=root ; COMMAND=/bin/systemctl reload apache2
+Jun 18 20:02:20 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 20:02:20 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 20:06:15 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/etc/apache2/mods-enabled ; USER=root ; COMMAND=/usr/bin/mysqlshow
+Jun 18 20:06:15 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 20:06:15 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 20:06:27 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/etc/apache2/mods-enabled ; USER=root ; COMMAND=/usr/bin/mysqlshow mysql
+Jun 18 20:06:27 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 20:06:27 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 20:06:40 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/etc/apache2/mods-enabled ; USER=root ; COMMAND=/usr/bin/mysqlshow mysql user
+Jun 18 20:06:40 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 20:06:40 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 20:06:49 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/etc/apache2/mods-enabled ; USER=root ; COMMAND=/usr/bin/mysql
+Jun 18 20:06:49 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 20:07:35 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 20:09:01 scotty CRON[32750]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 20:09:01 scotty CRON[32750]: pam_unix(cron:session): session closed for user root
+Jun 18 20:10:41 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/etc/apache2/mods-enabled ; USER=root ; COMMAND=/bin/cat /root/.my.conf
+Jun 18 20:10:41 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 20:10:41 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 20:10:48 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/etc/apache2/mods-enabled ; USER=root ; COMMAND=/bin/cat /root/.my.cnf
+Jun 18 20:10:48 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 20:10:48 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 20:11:02 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/etc/apache2/mods-enabled ; USER=root ; COMMAND=/usr/bin/apt install phpmyadmin
+Jun 18 20:11:02 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 20:11:59 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 20:14:58 scotty pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Jun 18 20:14:58 scotty pkexec[2979]: nquirk22: Executing command [USER=root] [TTY=unknown] [CWD=/home/nquirk22] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Jun 18 20:17:01 scotty CRON[3061]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 20:17:01 scotty CRON[3061]: pam_unix(cron:session): session closed for user root
+Jun 18 20:23:56 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22 ; USER=root ; COMMAND=/bin/su
+Jun 18 20:23:56 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 20:23:56 scotty su[3192]: Successful su for root by root
+Jun 18 20:23:56 scotty su[3192]: + /dev/pts/0 root:root
+Jun 18 20:23:56 scotty su[3192]: pam_unix(su:session): session opened for user root by (uid=0)
+Jun 18 20:23:56 scotty su[3192]: pam_systemd(su:session): Cannot create session: Already running in a session
+Jun 18 20:39:01 scotty CRON[3425]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 20:39:01 scotty CRON[3425]: pam_unix(cron:session): session closed for user root
+Jun 18 20:48:05 scotty gnome-keyring-daemon[30789]: couldn't allocate secure memory to keep passwords and or keys from being written to the disk
+Jun 18 20:57:06 scotty sudo:     root : TTY=pts/0 ; PWD=/var/www/html/scotty_drupal ; USER=root ; COMMAND=/usr/bin/add-apt-repository ppa:webupd8team/java
+Jun 18 20:57:06 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 20:57:28 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 20:57:33 scotty su[3192]: pam_unix(su:session): session closed for user root
+Jun 18 20:57:33 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 20:57:45 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22 ; USER=root ; COMMAND=/usr/bin/apt update
+Jun 18 20:57:45 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 20:57:47 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 20:58:05 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22 ; USER=root ; COMMAND=/usr/bin/apt install oracle-java8-installer
+Jun 18 20:58:05 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 20:58:40 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 20:59:36 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22 ; USER=root ; COMMAND=/bin/tar xzf /home/nquirk22/Downloads/eclipse-jee-oxygen-3a-linux-gtk-x86_64.tar.gz -C /usr/local/
+Jun 18 20:59:36 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 20:59:40 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 20:59:58 scotty pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Jun 18 20:59:58 scotty pkexec[6117]: nquirk22: Executing command [USER=root] [TTY=unknown] [CWD=/home/nquirk22] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Jun 18 21:00:03 scotty su[6124]: Successful su for root by nquirk22
+Jun 18 21:00:03 scotty su[6124]: + /dev/pts/0 nquirk22:root
+Jun 18 21:00:03 scotty su[6124]: pam_unix(su:session): session opened for user root by (uid=1000)
+Jun 18 21:00:03 scotty su[6124]: pam_systemd(su:session): Cannot create session: Already running in a session
+Jun 18 21:03:25 scotty su[6124]: pam_unix(su:session): session closed for user root
+Jun 18 21:03:54 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22 ; USER=root ; COMMAND=/usr/bin/apt install python3-pip
+Jun 18 21:03:54 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 21:04:02 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 21:05:58 scotty pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Jun 18 21:05:58 scotty pkexec[7392]: nquirk22: Executing command [USER=root] [TTY=unknown] [CWD=/home/nquirk22] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Jun 18 21:09:01 scotty CRON[7561]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 21:09:01 scotty CRON[7561]: pam_unix(cron:session): session closed for user root
+Jun 18 21:17:01 scotty CRON[8077]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 21:17:01 scotty CRON[8077]: pam_unix(cron:session): session closed for user root
+Jun 18 21:36:31 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22 ; USER=root ; COMMAND=/usr/bin/apt install sasl2-bin
+Jun 18 21:36:31 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 21:36:37 scotty saslpasswd2: error deleting entry from sasldb: BDB0073 DB_NOTFOUND: No matching key/data pair found
+Jun 18 21:36:37 scotty saslpasswd2: message repeated 2 times: [ error deleting entry from sasldb: BDB0073 DB_NOTFOUND: No matching key/data pair found]
+Jun 18 21:36:37 scotty saslpasswd2: DIGEST-MD5 common mech free
+Jun 18 21:36:37 scotty saslpasswd2: error deleting entry from sasldb: BDB0073 DB_NOTFOUND: No matching key/data pair found
+Jun 18 21:36:37 scotty saslpasswd2: message repeated 2 times: [ error deleting entry from sasldb: BDB0073 DB_NOTFOUND: No matching key/data pair found]
+Jun 18 21:36:37 scotty saslpasswd2: DIGEST-MD5 common mech free
+Jun 18 21:36:39 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 21:38:06 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22 ; USER=root ; COMMAND=/bin/nano /etc/default/saslauthd
+Jun 18 21:38:06 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 21:38:18 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 21:38:34 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22 ; USER=root ; COMMAND=/usr/sbin/adduser nquirk22 sasl
+Jun 18 21:38:34 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 21:38:34 scotty gpasswd[9553]: user nquirk22 added by root to group sasl
+Jun 18 21:38:34 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 21:38:58 scotty pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Jun 18 21:38:58 scotty pkexec[9575]: nquirk22: Executing command [USER=root] [TTY=unknown] [CWD=/home/nquirk22] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Jun 18 21:39:01 scotty CRON[9582]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 21:39:01 scotty CRON[9582]: pam_unix(cron:session): session closed for user root
+Jun 18 21:39:11 scotty newgrp[9586]: user 'nquirk22' (login '???' on pts/0) switched to group 'sasl'
+Jun 18 21:39:30 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22 ; USER=root ; COMMAND=/usr/sbin/service saslauthd restart
+Jun 18 21:39:30 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 21:39:30 scotty saslauthd[9657]:                 : master pid is: 9657
+Jun 18 21:39:30 scotty saslauthd[9657]:                 : listening on socket: /var/run/saslauthd/mux
+Jun 18 21:39:30 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 21:41:01 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22 ; USER=root ; COMMAND=/usr/bin/apt install libapache2-mod-authn-sasl
+Jun 18 21:41:01 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 21:41:03 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 21:41:19 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22 ; USER=root ; COMMAND=/usr/sbin/a2enmod authn_sasl
+Jun 18 21:41:19 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 21:41:19 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 21:41:35 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22 ; USER=root ; COMMAND=/usr/sbin/adduser www-data sasl
+Jun 18 21:41:35 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 21:41:35 scotty gpasswd[9817]: user www-data added by root to group sasl
+Jun 18 21:41:35 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 21:41:49 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22 ; USER=root ; COMMAND=/bin/systemctl restart apache2
+Jun 18 21:41:49 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 21:41:49 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 21:41:58 scotty pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Jun 18 21:41:58 scotty pkexec[9852]: nquirk22: Executing command [USER=root] [TTY=unknown] [CWD=/home/nquirk22] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Jun 18 21:42:25 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22 ; USER=root ; COMMAND=/bin/nano /etc/apache2/local.conf
+Jun 18 21:42:25 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 21:42:44 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 21:42:57 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22 ; USER=root ; COMMAND=/bin/systemctl reload apache2
+Jun 18 21:42:57 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 21:42:57 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 21:48:28 scotty saslauthd[9660]: pam_unix(http:auth): check pass; user unknown
+Jun 18 21:48:28 scotty saslauthd[9660]: pam_unix(http:auth): authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=
+Jun 18 21:48:30 scotty saslauthd[9660]: DEBUG: auth_pam: pam_authenticate failed: Authentication failure
+Jun 18 21:48:30 scotty saslauthd[9660]:                 : auth failure: [user=ljk] [service=http] [realm=] [mech=pam] [reason=PAM auth error]
+Jun 18 21:49:32 scotty saslauthd[9660]: pam_unix(http:auth): check pass; user unknown
+Jun 18 21:49:32 scotty saslauthd[9660]: pam_unix(http:auth): authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=
+Jun 18 21:49:34 scotty saslauthd[9660]: DEBUG: auth_pam: pam_authenticate failed: Authentication failure
+Jun 18 21:49:34 scotty saslauthd[9660]:                 : auth failure: [user=ljk] [service=http] [realm=] [mech=pam] [reason=PAM auth error]
+Jun 18 21:54:10 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22 ; USER=root ; COMMAND=/bin/nano /etc/apache2/local.conf
+Jun 18 21:54:10 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 18 21:55:13 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 18 21:57:36 scotty newgrp[9586]: user 'nquirk22' (login '???' on pts/0) returned to group 'nquirk22'
+Jun 18 21:57:45 scotty polkitd(authority=local): Unregistered Authentication Agent for unix-session:c7 (system bus name :1.161, object path /org/mate/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Jun 18 21:57:45 scotty lightdm: pam_unix(lightdm:session): session closed for user nquirk22
+Jun 18 21:57:45 scotty nxexec: pam_unix(nx:session): session closed for user nquirk22
+Jun 18 21:57:45 scotty systemd-logind[761]: Removed session c8.
+Jun 18 21:57:46 scotty lightdm: PAM unable to dlopen(pam_kwallet.so): /lib/security/pam_kwallet.so: cannot open shared object file: No such file or directory
+Jun 18 21:57:46 scotty lightdm: PAM adding faulty module: pam_kwallet.so
+Jun 18 21:57:46 scotty lightdm: PAM unable to dlopen(pam_kwallet5.so): /lib/security/pam_kwallet5.so: cannot open shared object file: No such file or directory
+Jun 18 21:57:46 scotty lightdm: PAM adding faulty module: pam_kwallet5.so
+Jun 18 21:57:46 scotty lightdm: pam_unix(lightdm-greeter:session): session opened for user lightdm by (uid=0)
+Jun 18 21:57:46 scotty systemd-logind[761]: New session c9 of user lightdm.
+Jun 18 21:57:46 scotty systemd: pam_unix(systemd-user:session): session opened for user lightdm by (uid=0)
+Jun 18 21:57:46 scotty lightdm: PAM unable to dlopen(pam_kwallet.so): /lib/security/pam_kwallet.so: cannot open shared object file: No such file or directory
+Jun 18 21:57:46 scotty lightdm: PAM adding faulty module: pam_kwallet.so
+Jun 18 21:57:46 scotty lightdm: PAM unable to dlopen(pam_kwallet5.so): /lib/security/pam_kwallet5.so: cannot open shared object file: No such file or directory
+Jun 18 21:57:46 scotty lightdm: PAM adding faulty module: pam_kwallet5.so
+Jun 18 21:58:16 scotty nxexec: pam_unix(nx:session): session opened for user lightdm by (uid=122)
+Jun 18 21:58:16 scotty systemd-logind[761]: New session c10 of user lightdm.
+Jun 18 22:09:01 scotty CRON[10739]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 22:09:01 scotty CRON[10739]: pam_unix(cron:session): session closed for user root
+Jun 18 22:17:01 scotty CRON[10877]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 22:17:01 scotty CRON[10877]: pam_unix(cron:session): session closed for user root
+Jun 18 22:39:01 scotty CRON[11051]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 22:39:01 scotty CRON[11051]: pam_unix(cron:session): session closed for user root
+Jun 18 23:09:01 scotty CRON[11351]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 23:09:01 scotty CRON[11351]: pam_unix(cron:session): session closed for user root
+Jun 18 23:17:01 scotty CRON[11485]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 23:17:01 scotty CRON[11485]: pam_unix(cron:session): session closed for user root
+Jun 18 23:39:01 scotty CRON[11656]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 18 23:39:01 scotty CRON[11656]: pam_unix(cron:session): session closed for user root
+Jun 19 00:09:01 scotty CRON[12155]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 00:09:01 scotty CRON[12155]: pam_unix(cron:session): session closed for user root
+Jun 19 00:17:01 scotty CRON[12286]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 00:17:01 scotty CRON[12286]: pam_unix(cron:session): session closed for user root
+Jun 19 00:39:01 scotty CRON[12465]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 00:39:01 scotty CRON[12465]: pam_unix(cron:session): session closed for user root
+Jun 19 01:09:01 scotty CRON[12774]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 01:09:01 scotty CRON[12774]: pam_unix(cron:session): session closed for user root
+Jun 19 01:17:01 scotty CRON[12907]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 01:17:01 scotty CRON[12907]: pam_unix(cron:session): session closed for user root
+Jun 19 01:39:01 scotty CRON[13077]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 01:39:01 scotty CRON[13077]: pam_unix(cron:session): session closed for user root
+Jun 19 02:09:01 scotty CRON[13392]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 02:09:01 scotty CRON[13392]: pam_unix(cron:session): session closed for user root
+Jun 19 02:17:01 scotty CRON[13517]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 02:17:01 scotty CRON[13517]: pam_unix(cron:session): session closed for user root
+Jun 19 02:39:01 scotty CRON[13681]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 02:39:01 scotty CRON[13681]: pam_unix(cron:session): session closed for user root
+Jun 19 03:09:01 scotty CRON[13983]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 03:09:01 scotty CRON[13983]: pam_unix(cron:session): session closed for user root
+Jun 19 03:17:01 scotty CRON[14127]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 03:17:01 scotty CRON[14127]: pam_unix(cron:session): session closed for user root
+Jun 19 03:39:01 scotty CRON[14297]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 03:39:01 scotty CRON[14297]: pam_unix(cron:session): session closed for user root
+Jun 19 04:09:01 scotty CRON[14596]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 04:09:01 scotty CRON[14596]: pam_unix(cron:session): session closed for user root
+Jun 19 04:17:01 scotty CRON[14728]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 04:17:01 scotty CRON[14728]: pam_unix(cron:session): session closed for user root
+Jun 19 04:39:01 scotty CRON[14903]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 04:39:01 scotty CRON[14903]: pam_unix(cron:session): session closed for user root
+Jun 19 05:09:01 scotty CRON[15202]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 05:09:01 scotty CRON[15202]: pam_unix(cron:session): session closed for user root
+Jun 19 05:17:01 scotty CRON[15333]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 05:17:01 scotty CRON[15333]: pam_unix(cron:session): session closed for user root
+Jun 19 05:39:01 scotty CRON[15506]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 05:39:01 scotty CRON[15506]: pam_unix(cron:session): session closed for user root
+Jun 19 06:09:01 scotty CRON[15805]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 06:09:01 scotty CRON[15805]: pam_unix(cron:session): session closed for user root
+Jun 19 06:12:01 scotty CRON[15898]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 06:12:01 scotty CRON[15898]: pam_unix(cron:session): session closed for user root
+Jun 19 06:17:01 scotty CRON[15946]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 06:17:01 scotty CRON[15946]: pam_unix(cron:session): session closed for user root
+Jun 19 06:25:01 scotty CRON[16231]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 06:25:01 scotty CRON[16231]: pam_unix(cron:session): session closed for user root
+Jun 19 06:39:01 scotty CRON[16339]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 06:39:01 scotty CRON[16339]: pam_unix(cron:session): session closed for user root
+Jun 19 07:09:01 scotty CRON[16639]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 07:09:01 scotty CRON[16639]: pam_unix(cron:session): session closed for user root
+Jun 19 07:17:01 scotty CRON[16765]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 07:17:01 scotty CRON[16765]: pam_unix(cron:session): session closed for user root
+Jun 19 07:30:01 scotty CRON[16862]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 07:30:01 scotty CRON[16862]: pam_unix(cron:session): session closed for user root
+Jun 19 07:39:01 scotty CRON[16932]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 07:39:01 scotty CRON[16932]: pam_unix(cron:session): session closed for user root
+Jun 19 08:09:01 scotty CRON[17224]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 08:09:01 scotty CRON[17224]: pam_unix(cron:session): session closed for user root
+Jun 19 08:17:01 scotty CRON[17351]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 08:17:01 scotty CRON[17351]: pam_unix(cron:session): session closed for user root
+Jun 19 08:39:01 scotty CRON[17525]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 08:39:01 scotty CRON[17525]: pam_unix(cron:session): session closed for user root
+Jun 19 09:09:01 scotty CRON[17827]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 09:09:01 scotty CRON[17827]: pam_unix(cron:session): session closed for user root
+Jun 19 09:17:01 scotty CRON[18429]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 09:17:01 scotty CRON[18429]: pam_unix(cron:session): session closed for user root
+Jun 19 09:39:01 scotty CRON[18603]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 09:39:01 scotty CRON[18603]: pam_unix(cron:session): session closed for user root
+Jun 19 10:09:01 scotty CRON[18970]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 10:09:01 scotty CRON[18970]: pam_unix(cron:session): session closed for user root
+Jun 19 10:17:01 scotty CRON[19106]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 10:17:01 scotty CRON[19106]: pam_unix(cron:session): session closed for user root
+Jun 19 10:39:01 scotty CRON[19277]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 10:39:01 scotty CRON[19277]: pam_unix(cron:session): session closed for user root
+Jun 19 11:09:01 scotty CRON[19568]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 11:09:01 scotty CRON[19568]: pam_unix(cron:session): session closed for user root
+Jun 19 11:13:46 scotty sshd[19680]: Accepted publickey for instructor from 2605:0:103:200:144:26:62:134 port 59296 ssh2: RSA SHA256:eRMJdD6mUSx6BcGdo4glad8HY2Ctax/iHmfp+LA3gxY
+Jun 19 11:13:46 scotty sshd[19680]: pam_unix(sshd:session): session opened for user instructor by (uid=0)
+Jun 19 11:13:46 scotty systemd-logind[761]: New session 155 of user instructor.
+Jun 19 11:13:46 scotty systemd: pam_unix(systemd-user:session): session opened for user instructor by (uid=0)
+Jun 19 11:13:48 scotty sudo: instructor : TTY=pts/0 ; PWD=/home/instructor ; USER=root ; COMMAND=/usr/bin/apt update
+Jun 19 11:13:48 scotty sudo: pam_unix(sudo:session): session opened for user root by instructor(uid=0)
+Jun 19 11:13:52 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 19 11:13:52 scotty sudo: instructor : TTY=pts/0 ; PWD=/home/instructor ; USER=root ; COMMAND=/usr/bin/apt upgrade -y
+Jun 19 11:13:52 scotty sudo: pam_unix(sudo:session): session opened for user root by instructor(uid=0)
+Jun 19 11:13:58 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 19 11:13:59 scotty sshd[19785]: Received disconnect from 2605:0:103:200:144:26:62:134 port 59296:11: disconnected by user
+Jun 19 11:13:59 scotty sshd[19785]: Disconnected from user instructor 2605:0:103:200:144:26:62:134 port 59296
+Jun 19 11:13:59 scotty sshd[19680]: pam_unix(sshd:session): session closed for user instructor
+Jun 19 11:13:59 scotty systemd-logind[761]: Removed session 155.
+Jun 19 11:17:01 scotty CRON[20709]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 11:17:01 scotty CRON[20709]: pam_unix(cron:session): session closed for user root
+Jun 19 11:39:01 scotty CRON[20891]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 11:39:01 scotty CRON[20891]: pam_unix(cron:session): session closed for user root
+Jun 19 12:09:01 scotty CRON[21194]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 12:09:01 scotty CRON[21194]: pam_unix(cron:session): session closed for user root
+Jun 19 12:17:01 scotty CRON[21323]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 12:17:01 scotty CRON[21323]: pam_unix(cron:session): session closed for user root
+Jun 19 12:39:01 scotty CRON[21493]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 12:39:01 scotty CRON[21493]: pam_unix(cron:session): session closed for user root
+Jun 19 13:09:01 scotty CRON[21787]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 13:09:01 scotty CRON[21787]: pam_unix(cron:session): session closed for user root
+Jun 19 13:17:01 scotty CRON[21913]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 13:17:01 scotty CRON[21913]: pam_unix(cron:session): session closed for user root
+Jun 19 13:39:01 scotty CRON[22090]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 13:39:01 scotty CRON[22090]: pam_unix(cron:session): session closed for user root
+Jun 19 14:09:01 scotty CRON[22386]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 14:09:01 scotty CRON[22386]: pam_unix(cron:session): session closed for user root
+Jun 19 14:17:01 scotty CRON[22516]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 14:17:01 scotty CRON[22516]: pam_unix(cron:session): session closed for user root
+Jun 19 14:39:01 scotty CRON[22694]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 14:39:01 scotty CRON[22694]: pam_unix(cron:session): session closed for user root
+Jun 19 15:09:01 scotty CRON[22997]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 15:09:01 scotty CRON[22997]: pam_unix(cron:session): session closed for user root
+Jun 19 15:17:01 scotty CRON[23121]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 15:17:01 scotty CRON[23121]: pam_unix(cron:session): session closed for user root
+Jun 19 15:39:01 scotty CRON[23506]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 15:39:01 scotty CRON[23506]: pam_unix(cron:session): session closed for user root
+Jun 19 16:09:01 scotty CRON[23828]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 16:09:01 scotty CRON[23828]: pam_unix(cron:session): session closed for user root
+Jun 19 16:17:01 scotty CRON[23956]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 16:17:01 scotty CRON[23956]: pam_unix(cron:session): session closed for user root
+Jun 19 16:39:01 scotty CRON[24125]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 16:39:01 scotty CRON[24125]: pam_unix(cron:session): session closed for user root
+Jun 19 17:09:01 scotty CRON[24423]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 17:09:01 scotty CRON[24423]: pam_unix(cron:session): session closed for user root
+Jun 19 17:17:01 scotty CRON[24554]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 17:17:01 scotty CRON[24554]: pam_unix(cron:session): session closed for user root
+Jun 19 17:39:01 scotty CRON[24727]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 17:39:01 scotty CRON[24727]: pam_unix(cron:session): session closed for user root
+Jun 19 18:09:01 scotty CRON[25031]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 18:09:01 scotty CRON[25031]: pam_unix(cron:session): session closed for user root
+Jun 19 18:17:01 scotty CRON[25174]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 18:17:01 scotty CRON[25174]: pam_unix(cron:session): session closed for user root
+Jun 19 18:39:01 scotty CRON[25340]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 18:39:01 scotty CRON[25340]: pam_unix(cron:session): session closed for user root
+Jun 19 19:09:01 scotty CRON[25637]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 19:09:01 scotty CRON[25637]: pam_unix(cron:session): session closed for user root
+Jun 19 19:17:01 scotty CRON[25767]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 19:17:01 scotty CRON[25767]: pam_unix(cron:session): session closed for user root
+Jun 19 19:39:01 scotty CRON[25940]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 19:39:01 scotty CRON[25940]: pam_unix(cron:session): session closed for user root
+Jun 19 20:09:01 scotty CRON[26235]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 20:09:01 scotty CRON[26235]: pam_unix(cron:session): session closed for user root
+Jun 19 20:17:01 scotty CRON[26365]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 20:17:01 scotty CRON[26365]: pam_unix(cron:session): session closed for user root
+Jun 19 20:39:01 scotty CRON[26536]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 20:39:01 scotty CRON[26536]: pam_unix(cron:session): session closed for user root
+Jun 19 21:09:01 scotty CRON[26834]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 21:09:01 scotty CRON[26834]: pam_unix(cron:session): session closed for user root
+Jun 19 21:17:01 scotty CRON[26964]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 21:17:01 scotty CRON[26964]: pam_unix(cron:session): session closed for user root
+Jun 19 21:39:01 scotty CRON[27137]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 21:39:01 scotty CRON[27137]: pam_unix(cron:session): session closed for user root
+Jun 19 22:09:01 scotty CRON[27439]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 22:09:01 scotty CRON[27439]: pam_unix(cron:session): session closed for user root
+Jun 19 22:17:01 scotty CRON[27571]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 22:17:01 scotty CRON[27571]: pam_unix(cron:session): session closed for user root
+Jun 19 22:39:01 scotty CRON[27743]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 22:39:01 scotty CRON[27743]: pam_unix(cron:session): session closed for user root
+Jun 19 23:09:01 scotty CRON[28043]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 23:09:01 scotty CRON[28043]: pam_unix(cron:session): session closed for user root
+Jun 19 23:17:01 scotty CRON[28172]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 23:17:01 scotty CRON[28172]: pam_unix(cron:session): session closed for user root
+Jun 19 23:39:01 scotty CRON[28338]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 19 23:39:01 scotty CRON[28338]: pam_unix(cron:session): session closed for user root
+Jun 20 00:09:01 scotty CRON[28723]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 00:09:01 scotty CRON[28723]: pam_unix(cron:session): session closed for user root
+Jun 20 00:17:01 scotty CRON[28981]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 00:17:01 scotty CRON[28981]: pam_unix(cron:session): session closed for user root
+Jun 20 00:39:01 scotty CRON[29155]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 00:39:01 scotty CRON[29155]: pam_unix(cron:session): session closed for user root
+Jun 20 01:09:01 scotty CRON[29456]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 01:09:01 scotty CRON[29456]: pam_unix(cron:session): session closed for user root
+Jun 20 01:17:01 scotty CRON[29582]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 01:17:01 scotty CRON[29582]: pam_unix(cron:session): session closed for user root
+Jun 20 01:24:16 scotty nxexec: pam_unix(nx:session): session opened for user nquirk22 by (uid=122)
+Jun 20 01:24:16 scotty systemd-logind[761]: New session c11 of user nquirk22.
+Jun 20 01:24:36 scotty lightdm: pam_succeed_if(lightdm:auth): requirement "user ingroup nopasswdlogin" not met by user "nquirk22"
+Jun 20 01:24:40 scotty lightdm: pam_unix(lightdm:session): session opened for user nquirk22 by (uid=0)
+Jun 20 01:24:40 scotty systemd-logind[761]: New session c12 of user nquirk22.
+Jun 20 01:24:41 scotty systemd-logind[761]: Removed session c9.
+Jun 20 01:24:42 scotty gnome-keyring-daemon[29851]: The Secret Service was already initialized
+Jun 20 01:24:42 scotty gnome-keyring-daemon[29851]: The SSH agent was already initialized
+Jun 20 01:24:43 scotty gnome-keyring-daemon[29851]: The PKCS#11 component was already initialized
+Jun 20 01:24:43 scotty polkitd(authority=local): Registered Authentication Agent for unix-session:c12 (system bus name :1.283 [/usr/lib/x86_64-linux-gnu/polkit-mate/polkit-mate-authentication-agent-1], object path /org/mate/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Jun 20 01:24:58 scotty nxexec: pam_unix(nx:session): session closed for user lightdm
+Jun 20 01:24:58 scotty nxexec: pam_unix(nx:session): session opened for user nquirk22 by (uid=122)
+Jun 20 01:24:58 scotty systemd-logind[761]: New session c13 of user nquirk22.
+Jun 20 01:25:18 scotty systemd-logind[761]: Removed session c10.
+Jun 20 01:25:18 scotty systemd: pam_unix(systemd-user:session): session closed for user lightdm
+Jun 20 01:39:01 scotty CRON[31054]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 01:39:01 scotty CRON[31054]: pam_unix(cron:session): session closed for user root
+Jun 20 02:05:49 scotty polkitd(authority=local): Unregistered Authentication Agent for unix-session:c12 (system bus name :1.283, object path /org/mate/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Jun 20 02:05:49 scotty lightdm: pam_unix(lightdm:session): session closed for user nquirk22
+Jun 20 02:05:49 scotty nxexec: pam_unix(nx:session): session closed for user nquirk22
+Jun 20 02:05:49 scotty systemd-logind[761]: Removed session c13.
+Jun 20 02:05:50 scotty lightdm: PAM unable to dlopen(pam_kwallet.so): /lib/security/pam_kwallet.so: cannot open shared object file: No such file or directory
+Jun 20 02:05:50 scotty lightdm: PAM adding faulty module: pam_kwallet.so
+Jun 20 02:05:50 scotty lightdm: PAM unable to dlopen(pam_kwallet5.so): /lib/security/pam_kwallet5.so: cannot open shared object file: No such file or directory
+Jun 20 02:05:50 scotty lightdm: PAM adding faulty module: pam_kwallet5.so
+Jun 20 02:05:50 scotty lightdm: pam_unix(lightdm-greeter:session): session opened for user lightdm by (uid=0)
+Jun 20 02:05:50 scotty systemd-logind[761]: New session c14 of user lightdm.
+Jun 20 02:05:50 scotty systemd: pam_unix(systemd-user:session): session opened for user lightdm by (uid=0)
+Jun 20 02:05:50 scotty lightdm: PAM unable to dlopen(pam_kwallet.so): /lib/security/pam_kwallet.so: cannot open shared object file: No such file or directory
+Jun 20 02:05:50 scotty lightdm: PAM adding faulty module: pam_kwallet.so
+Jun 20 02:05:50 scotty lightdm: PAM unable to dlopen(pam_kwallet5.so): /lib/security/pam_kwallet5.so: cannot open shared object file: No such file or directory
+Jun 20 02:05:50 scotty lightdm: PAM adding faulty module: pam_kwallet5.so
+Jun 20 02:06:20 scotty nxexec: pam_unix(nx:session): session opened for user lightdm by (uid=122)
+Jun 20 02:06:20 scotty systemd-logind[761]: New session c15 of user lightdm.
+Jun 20 02:06:30 scotty nxexec: pam_unix(nx:session): session closed for user nquirk22
+Jun 20 02:06:30 scotty systemd-logind[761]: Removed session c11.
+Jun 20 02:09:01 scotty CRON[31612]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 02:09:01 scotty CRON[31612]: pam_unix(cron:session): session closed for user root
+Jun 20 02:17:01 scotty CRON[31730]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 02:17:01 scotty CRON[31730]: pam_unix(cron:session): session closed for user root
+Jun 20 02:39:01 scotty CRON[31900]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 02:39:01 scotty CRON[31900]: pam_unix(cron:session): session closed for user root
+Jun 20 03:09:02 scotty CRON[32666]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 03:09:02 scotty CRON[32666]: pam_unix(cron:session): session closed for user root
+Jun 20 03:17:01 scotty CRON[323]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 03:17:01 scotty CRON[323]: pam_unix(cron:session): session closed for user root
+Jun 20 03:39:01 scotty CRON[524]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 03:39:01 scotty CRON[524]: pam_unix(cron:session): session closed for user root
+Jun 20 04:09:01 scotty CRON[852]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 04:09:01 scotty CRON[852]: pam_unix(cron:session): session closed for user root
+Jun 20 04:17:01 scotty CRON[994]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 04:17:01 scotty CRON[994]: pam_unix(cron:session): session closed for user root
+Jun 20 04:39:01 scotty CRON[1251]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 04:39:01 scotty CRON[1251]: pam_unix(cron:session): session closed for user root
+Jun 20 05:09:01 scotty CRON[1514]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 05:09:01 scotty CRON[1514]: pam_unix(cron:session): session closed for user root
+Jun 20 05:17:01 scotty CRON[1644]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 05:17:01 scotty CRON[1644]: pam_unix(cron:session): session closed for user root
+Jun 20 05:39:01 scotty CRON[1825]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 05:39:01 scotty CRON[1825]: pam_unix(cron:session): session closed for user root
+Jun 20 06:09:01 scotty CRON[2132]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 06:09:01 scotty CRON[2132]: pam_unix(cron:session): session closed for user root
+Jun 20 06:12:01 scotty CRON[2219]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 06:12:01 scotty CRON[2219]: pam_unix(cron:session): session closed for user root
+Jun 20 06:17:01 scotty CRON[2261]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 06:17:01 scotty CRON[2261]: pam_unix(cron:session): session closed for user root
+Jun 20 06:25:01 scotty CRON[2329]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 06:25:01 scotty CRON[2329]: pam_unix(cron:session): session closed for user root
+Jun 20 06:39:01 scotty CRON[2442]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 06:39:01 scotty CRON[2442]: pam_unix(cron:session): session closed for user root
+Jun 20 07:09:01 scotty CRON[2859]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 07:09:01 scotty CRON[2859]: pam_unix(cron:session): session closed for user root
+Jun 20 07:17:01 scotty CRON[2988]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 07:17:01 scotty CRON[2988]: pam_unix(cron:session): session closed for user root
+Jun 20 07:30:01 scotty CRON[3088]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 07:30:01 scotty CRON[3088]: pam_unix(cron:session): session closed for user root
+Jun 20 07:39:01 scotty CRON[3155]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 07:39:01 scotty CRON[3155]: pam_unix(cron:session): session closed for user root
+Jun 20 08:09:01 scotty CRON[3459]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 08:09:01 scotty CRON[3459]: pam_unix(cron:session): session closed for user root
+Jun 20 08:17:01 scotty CRON[3589]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 08:17:01 scotty CRON[3589]: pam_unix(cron:session): session closed for user root
+Jun 20 08:39:01 scotty CRON[3761]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 08:39:01 scotty CRON[3761]: pam_unix(cron:session): session closed for user root
+Jun 20 09:09:01 scotty CRON[4068]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 09:09:01 scotty CRON[4068]: pam_unix(cron:session): session closed for user root
+Jun 20 09:17:01 scotty CRON[4194]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 09:17:01 scotty CRON[4194]: pam_unix(cron:session): session closed for user root
+Jun 20 09:39:01 scotty CRON[4363]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 09:39:01 scotty CRON[4363]: pam_unix(cron:session): session closed for user root
+Jun 20 10:09:01 scotty CRON[4669]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 10:09:01 scotty CRON[4669]: pam_unix(cron:session): session closed for user root
+Jun 20 10:17:01 scotty CRON[4796]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 10:17:01 scotty CRON[4796]: pam_unix(cron:session): session closed for user root
+Jun 20 10:39:01 scotty CRON[4981]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 10:39:01 scotty CRON[4981]: pam_unix(cron:session): session closed for user root
+Jun 20 11:09:01 scotty CRON[5286]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 11:09:01 scotty CRON[5286]: pam_unix(cron:session): session closed for user root
+Jun 20 11:17:01 scotty CRON[5419]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 11:17:01 scotty CRON[5419]: pam_unix(cron:session): session closed for user root
+Jun 20 11:39:01 scotty CRON[5652]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 11:39:01 scotty CRON[5652]: pam_unix(cron:session): session closed for user root
+Jun 20 12:09:01 scotty CRON[5894]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 12:09:01 scotty CRON[5894]: pam_unix(cron:session): session closed for user root
+Jun 20 12:17:01 scotty CRON[6025]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 12:17:01 scotty CRON[6025]: pam_unix(cron:session): session closed for user root
+Jun 20 12:39:01 scotty CRON[6192]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 12:39:01 scotty CRON[6192]: pam_unix(cron:session): session closed for user root
+Jun 20 13:09:01 scotty CRON[6494]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 13:09:01 scotty CRON[6494]: pam_unix(cron:session): session closed for user root
+Jun 20 13:17:01 scotty CRON[6622]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 13:17:01 scotty CRON[6622]: pam_unix(cron:session): session closed for user root
+Jun 20 13:39:01 scotty CRON[6795]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 13:39:01 scotty CRON[6795]: pam_unix(cron:session): session closed for user root
+Jun 20 14:03:29 scotty sshd[7050]: Accepted publickey for instructor from 2605:0:103:200:144:26:62:134 port 59478 ssh2: RSA SHA256:eRMJdD6mUSx6BcGdo4glad8HY2Ctax/iHmfp+LA3gxY
+Jun 20 14:03:29 scotty sshd[7050]: pam_unix(sshd:session): session opened for user instructor by (uid=0)
+Jun 20 14:03:29 scotty systemd-logind[761]: New session 241 of user instructor.
+Jun 20 14:03:29 scotty systemd: pam_unix(systemd-user:session): session opened for user instructor by (uid=0)
+Jun 20 14:03:31 scotty sshd[7155]: Received disconnect from 2605:0:103:200:144:26:62:134 port 59478:11: disconnected by user
+Jun 20 14:03:31 scotty sshd[7155]: Disconnected from user instructor 2605:0:103:200:144:26:62:134 port 59478
+Jun 20 14:03:31 scotty sshd[7050]: pam_unix(sshd:session): session closed for user instructor
+Jun 20 14:03:31 scotty systemd-logind[761]: Removed session 241.
+Jun 20 14:09:01 scotty CRON[7221]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 14:09:01 scotty CRON[7221]: pam_unix(cron:session): session closed for user root
+Jun 20 14:17:01 scotty CRON[7351]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 14:17:01 scotty CRON[7351]: pam_unix(cron:session): session closed for user root
+Jun 20 14:39:01 scotty CRON[7519]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 14:39:01 scotty CRON[7519]: pam_unix(cron:session): session closed for user root
+Jun 20 15:09:01 scotty CRON[7827]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 15:09:01 scotty CRON[7827]: pam_unix(cron:session): session closed for user root
+Jun 20 15:17:01 scotty CRON[7951]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 15:17:01 scotty CRON[7951]: pam_unix(cron:session): session closed for user root
+Jun 20 15:39:01 scotty CRON[8129]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 15:39:01 scotty CRON[8129]: pam_unix(cron:session): session closed for user root
+Jun 20 16:09:01 scotty CRON[8422]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 16:09:01 scotty CRON[8422]: pam_unix(cron:session): session closed for user root
+Jun 20 16:17:01 scotty CRON[8545]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 16:17:01 scotty CRON[8545]: pam_unix(cron:session): session closed for user root
+Jun 20 16:39:01 scotty CRON[8718]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 16:39:01 scotty CRON[8718]: pam_unix(cron:session): session closed for user root
+Jun 20 17:09:01 scotty CRON[9014]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 17:09:01 scotty CRON[9014]: pam_unix(cron:session): session closed for user root
+Jun 20 17:17:01 scotty CRON[9140]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 17:17:01 scotty CRON[9140]: pam_unix(cron:session): session closed for user root
+Jun 20 17:39:01 scotty CRON[9330]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 17:39:01 scotty CRON[9330]: pam_unix(cron:session): session closed for user root
+Jun 20 18:09:01 scotty CRON[9699]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 18:09:01 scotty CRON[9699]: pam_unix(cron:session): session closed for user root
+Jun 20 18:17:01 scotty CRON[9826]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 18:17:01 scotty CRON[9826]: pam_unix(cron:session): session closed for user root
+Jun 20 18:39:01 scotty CRON[10064]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 18:39:01 scotty CRON[10064]: pam_unix(cron:session): session closed for user root
+Jun 20 19:09:01 scotty CRON[10371]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 19:09:01 scotty CRON[10371]: pam_unix(cron:session): session closed for user root
+Jun 20 19:17:01 scotty CRON[10496]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 19:17:01 scotty CRON[10496]: pam_unix(cron:session): session closed for user root
+Jun 20 19:39:01 scotty CRON[10675]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 19:39:01 scotty CRON[10675]: pam_unix(cron:session): session closed for user root
+Jun 20 20:09:01 scotty CRON[10982]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 20:09:01 scotty CRON[10982]: pam_unix(cron:session): session closed for user root
+Jun 20 20:17:01 scotty CRON[11112]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 20:17:01 scotty CRON[11112]: pam_unix(cron:session): session closed for user root
+Jun 20 20:39:01 scotty CRON[11286]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 20:39:01 scotty CRON[11286]: pam_unix(cron:session): session closed for user root
+Jun 20 21:09:01 scotty CRON[11584]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 21:09:01 scotty CRON[11584]: pam_unix(cron:session): session closed for user root
+Jun 20 21:17:01 scotty CRON[11711]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 21:17:01 scotty CRON[11711]: pam_unix(cron:session): session closed for user root
+Jun 20 21:39:01 scotty CRON[11887]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 21:39:01 scotty CRON[11887]: pam_unix(cron:session): session closed for user root
+Jun 20 22:09:01 scotty CRON[12252]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 22:09:01 scotty CRON[12252]: pam_unix(cron:session): session closed for user root
+Jun 20 22:17:01 scotty CRON[12314]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 22:17:01 scotty CRON[12314]: pam_unix(cron:session): session closed for user root
+Jun 20 22:39:01 scotty CRON[12488]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 22:39:01 scotty CRON[12488]: pam_unix(cron:session): session closed for user root
+Jun 20 23:09:01 scotty CRON[12781]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 23:09:01 scotty CRON[12781]: pam_unix(cron:session): session closed for user root
+Jun 20 23:17:01 scotty CRON[12914]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 23:17:01 scotty CRON[12914]: pam_unix(cron:session): session closed for user root
+Jun 20 23:39:01 scotty CRON[13082]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 20 23:39:01 scotty CRON[13082]: pam_unix(cron:session): session closed for user root
+Jun 21 00:09:01 scotty CRON[13409]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 00:09:01 scotty CRON[13409]: pam_unix(cron:session): session closed for user root
+Jun 21 00:17:01 scotty CRON[13750]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 00:17:01 scotty CRON[13750]: pam_unix(cron:session): session closed for user root
+Jun 21 00:39:01 scotty CRON[14394]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 00:39:01 scotty CRON[14394]: pam_unix(cron:session): session closed for user root
+Jun 21 01:09:01 scotty CRON[14698]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 01:09:02 scotty CRON[14698]: pam_unix(cron:session): session closed for user root
+Jun 21 01:17:02 scotty CRON[14831]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 01:17:02 scotty CRON[14831]: pam_unix(cron:session): session closed for user root
+Jun 21 01:39:01 scotty CRON[15002]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 01:39:01 scotty CRON[15002]: pam_unix(cron:session): session closed for user root
+Jun 21 02:09:01 scotty CRON[15299]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 02:09:01 scotty CRON[15299]: pam_unix(cron:session): session closed for user root
+Jun 21 02:17:01 scotty CRON[15427]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 02:17:01 scotty CRON[15427]: pam_unix(cron:session): session closed for user root
+Jun 21 02:39:01 scotty CRON[15594]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 02:39:01 scotty CRON[15594]: pam_unix(cron:session): session closed for user root
+Jun 21 03:09:01 scotty CRON[15889]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 03:09:01 scotty CRON[15889]: pam_unix(cron:session): session closed for user root
+Jun 21 03:17:01 scotty CRON[16020]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 03:17:01 scotty CRON[16020]: pam_unix(cron:session): session closed for user root
+Jun 21 03:39:01 scotty CRON[16189]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 03:39:01 scotty CRON[16189]: pam_unix(cron:session): session closed for user root
+Jun 21 04:09:01 scotty CRON[16552]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 04:09:01 scotty CRON[16552]: pam_unix(cron:session): session closed for user root
+Jun 21 04:17:01 scotty CRON[16612]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 04:17:01 scotty CRON[16612]: pam_unix(cron:session): session closed for user root
+Jun 21 04:39:01 scotty CRON[16788]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 04:39:01 scotty CRON[16788]: pam_unix(cron:session): session closed for user root
+Jun 21 05:09:01 scotty CRON[17078]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 05:09:01 scotty CRON[17078]: pam_unix(cron:session): session closed for user root
+Jun 21 05:17:01 scotty CRON[17200]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 05:17:01 scotty CRON[17200]: pam_unix(cron:session): session closed for user root
+Jun 21 05:39:01 scotty CRON[17379]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 05:39:01 scotty CRON[17379]: pam_unix(cron:session): session closed for user root
+Jun 21 06:09:01 scotty CRON[17700]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 06:09:01 scotty CRON[17700]: pam_unix(cron:session): session closed for user root
+Jun 21 06:12:01 scotty CRON[17787]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 06:12:01 scotty CRON[17787]: pam_unix(cron:session): session closed for user root
+Jun 21 06:17:01 scotty CRON[17830]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 06:17:01 scotty CRON[17830]: pam_unix(cron:session): session closed for user root
+Jun 21 06:25:01 scotty CRON[17894]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 06:25:01 scotty CRON[17894]: pam_unix(cron:session): session closed for user root
+Jun 21 06:39:01 scotty CRON[25343]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 06:39:01 scotty CRON[25343]: pam_unix(cron:session): session closed for user root
+Jun 21 07:09:01 scotty CRON[25639]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 07:09:01 scotty CRON[25639]: pam_unix(cron:session): session closed for user root
+Jun 21 07:17:01 scotty CRON[25762]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 07:17:01 scotty CRON[25762]: pam_unix(cron:session): session closed for user root
+Jun 21 07:30:01 scotty CRON[25875]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 07:30:01 scotty CRON[25875]: pam_unix(cron:session): session closed for user root
+Jun 21 07:39:01 scotty CRON[25949]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 07:39:01 scotty CRON[25949]: pam_unix(cron:session): session closed for user root
+Jun 21 08:09:01 scotty CRON[26247]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 08:09:01 scotty CRON[26247]: pam_unix(cron:session): session closed for user root
+Jun 21 08:17:01 scotty CRON[26381]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 08:17:01 scotty CRON[26381]: pam_unix(cron:session): session closed for user root
+Jun 21 08:39:01 scotty CRON[26561]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 08:39:01 scotty CRON[26561]: pam_unix(cron:session): session closed for user root
+Jun 21 09:09:01 scotty CRON[26864]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 09:09:01 scotty CRON[26864]: pam_unix(cron:session): session closed for user root
+Jun 21 09:17:01 scotty CRON[26991]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 09:17:01 scotty CRON[26991]: pam_unix(cron:session): session closed for user root
+Jun 21 09:39:01 scotty CRON[27167]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 09:39:01 scotty CRON[27167]: pam_unix(cron:session): session closed for user root
+Jun 21 10:09:01 scotty CRON[27533]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 10:09:01 scotty CRON[27533]: pam_unix(cron:session): session closed for user root
+Jun 21 10:17:01 scotty CRON[27666]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 10:17:01 scotty CRON[27666]: pam_unix(cron:session): session closed for user root
+Jun 21 10:39:01 scotty CRON[27849]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 10:39:01 scotty CRON[27849]: pam_unix(cron:session): session closed for user root
+Jun 21 11:09:01 scotty CRON[28148]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 11:09:01 scotty CRON[28148]: pam_unix(cron:session): session closed for user root
+Jun 21 11:17:01 scotty CRON[28278]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 11:17:01 scotty CRON[28278]: pam_unix(cron:session): session closed for user root
+Jun 21 11:39:01 scotty CRON[28449]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 11:39:01 scotty CRON[28449]: pam_unix(cron:session): session closed for user root
+Jun 21 12:09:01 scotty CRON[28754]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 12:09:01 scotty CRON[28754]: pam_unix(cron:session): session closed for user root
+Jun 21 12:17:01 scotty CRON[28885]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 12:17:01 scotty CRON[28885]: pam_unix(cron:session): session closed for user root
+Jun 21 12:39:01 scotty CRON[29053]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 12:39:01 scotty CRON[29053]: pam_unix(cron:session): session closed for user root
+Jun 21 13:09:01 scotty CRON[29360]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 13:09:01 scotty CRON[29360]: pam_unix(cron:session): session closed for user root
+Jun 21 13:17:01 scotty CRON[29489]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 13:17:01 scotty CRON[29489]: pam_unix(cron:session): session closed for user root
+Jun 21 13:39:01 scotty CRON[29659]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 13:39:01 scotty CRON[29659]: pam_unix(cron:session): session closed for user root
+Jun 21 14:09:01 scotty CRON[29966]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 14:09:01 scotty CRON[29966]: pam_unix(cron:session): session closed for user root
+Jun 21 14:17:01 scotty CRON[30096]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 14:17:01 scotty CRON[30096]: pam_unix(cron:session): session closed for user root
+Jun 21 14:39:01 scotty CRON[30271]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 14:39:01 scotty CRON[30271]: pam_unix(cron:session): session closed for user root
+Jun 21 15:09:01 scotty CRON[30574]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 15:09:01 scotty CRON[30574]: pam_unix(cron:session): session closed for user root
+Jun 21 15:17:01 scotty CRON[30706]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 15:17:01 scotty CRON[30706]: pam_unix(cron:session): session closed for user root
+Jun 21 15:39:01 scotty CRON[30954]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 15:39:01 scotty CRON[30954]: pam_unix(cron:session): session closed for user root
+Jun 21 16:09:01 scotty CRON[31239]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 16:09:01 scotty CRON[31239]: pam_unix(cron:session): session closed for user root
+Jun 21 16:17:01 scotty CRON[31400]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 16:17:01 scotty CRON[31400]: pam_unix(cron:session): session closed for user root
+Jun 21 16:39:01 scotty CRON[31600]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 16:39:01 scotty CRON[31600]: pam_unix(cron:session): session closed for user root
+Jun 21 17:09:01 scotty CRON[31900]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 17:09:01 scotty CRON[31900]: pam_unix(cron:session): session closed for user root
+Jun 21 17:17:01 scotty CRON[32033]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 17:17:01 scotty CRON[32033]: pam_unix(cron:session): session closed for user root
+Jun 21 17:39:01 scotty CRON[32212]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 17:39:01 scotty CRON[32212]: pam_unix(cron:session): session closed for user root
+Jun 21 18:09:01 scotty CRON[32531]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 18:09:01 scotty CRON[32531]: pam_unix(cron:session): session closed for user root
+Jun 21 18:17:01 scotty CRON[32660]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 18:17:01 scotty CRON[32660]: pam_unix(cron:session): session closed for user root
+Jun 21 18:39:01 scotty CRON[377]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 18:39:01 scotty CRON[377]: pam_unix(cron:session): session closed for user root
+Jun 21 19:09:01 scotty CRON[739]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 19:09:01 scotty CRON[739]: pam_unix(cron:session): session closed for user root
+Jun 21 19:17:01 scotty CRON[826]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 19:17:01 scotty CRON[826]: pam_unix(cron:session): session closed for user root
+Jun 21 19:39:01 scotty CRON[1017]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 19:39:01 scotty CRON[1017]: pam_unix(cron:session): session closed for user root
+Jun 21 19:46:36 scotty lightdm: pam_unix(lightdm:auth): check pass; user unknown
+Jun 21 19:46:36 scotty lightdm: pam_unix(lightdm:auth): authentication failure; logname= uid=0 euid=0 tty=:0 ruser= rhost=
+Jun 21 19:46:38 scotty lightdm: PAM unable to dlopen(pam_kwallet.so): /lib/security/pam_kwallet.so: cannot open shared object file: No such file or directory
+Jun 21 19:46:38 scotty lightdm: PAM adding faulty module: pam_kwallet.so
+Jun 21 19:46:38 scotty lightdm: PAM unable to dlopen(pam_kwallet5.so): /lib/security/pam_kwallet5.so: cannot open shared object file: No such file or directory
+Jun 21 19:46:38 scotty lightdm: PAM adding faulty module: pam_kwallet5.so
+Jun 21 19:46:42 scotty lightdm: pam_succeed_if(lightdm:auth): requirement "user ingroup nopasswdlogin" not met by user "nquirk22"
+Jun 21 19:46:46 scotty lightdm: pam_unix(lightdm:session): session opened for user nquirk22 by (uid=0)
+Jun 21 19:46:46 scotty systemd-logind[761]: Removed session c14.
+Jun 21 19:46:46 scotty systemd-logind[761]: New session c16 of user nquirk22.
+Jun 21 19:46:48 scotty gnome-keyring-daemon[1162]: The Secret Service was already initialized
+Jun 21 19:46:48 scotty gnome-keyring-daemon[1162]: The SSH agent was already initialized
+Jun 21 19:46:48 scotty polkitd(authority=local): Registered Authentication Agent for unix-session:c16 (system bus name :1.353 [/usr/lib/x86_64-linux-gnu/polkit-mate/polkit-mate-authentication-agent-1], object path /org/mate/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Jun 21 19:46:48 scotty gnome-keyring-daemon[1162]: The PKCS#11 component was already initialized
+Jun 21 19:46:51 scotty pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Jun 21 19:46:51 scotty pkexec[1799]: nquirk22: Executing command [USER=root] [TTY=unknown] [CWD=/home/nquirk22] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Jun 21 19:47:04 scotty gnome-keyring-daemon[1162]: couldn't allocate secure memory to keep passwords and or keys from being written to the disk
+Jun 21 19:47:04 scotty gnome-keyring-daemon[1162]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Jun 21 19:47:05 scotty gnome-keyring-daemon[1162]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Jun 21 19:47:05 scotty nxexec: pam_unix(nx:session): session closed for user lightdm
+Jun 21 19:47:05 scotty nxexec: pam_unix(nx:session): session opened for user nquirk22 by (uid=122)
+Jun 21 19:47:05 scotty systemd-logind[761]: New session c17 of user nquirk22.
+Jun 21 19:47:25 scotty systemd-logind[761]: Removed session c15.
+Jun 21 19:53:56 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/etc/apache2 ; USER=root ; COMMAND=/usr/bin/apt install libapache2-mod-authnz-external
+Jun 21 19:53:56 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 21 19:54:01 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 21 19:55:30 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/etc/apache2 ; USER=root ; COMMAND=/bin/nano local.conf
+Jun 21 19:55:30 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 21 19:55:50 scotty pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Jun 21 19:55:50 scotty pkexec[3046]: nquirk22: Executing command [USER=root] [TTY=unknown] [CWD=/home/nquirk22] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Jun 21 19:55:50 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 21 19:56:07 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/etc/apache2 ; USER=root ; COMMAND=/bin/systemctl restart apache2
+Jun 21 19:56:07 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 21 19:56:07 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 21 19:58:43 scotty pwauth: pam_unix(pwauth:auth): authentication failure; logname= uid=1000 euid=0 tty= ruser= rhost=  user=nquirk22
+Jun 21 19:59:44 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/etc/apache2 ; USER=root ; COMMAND=/usr/bin/apt install python3-pymysql
+Jun 21 19:59:44 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 21 19:59:47 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 21 20:01:39 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22 ; USER=root ; COMMAND=/usr/bin/mysql
+Jun 21 20:01:39 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 21 20:01:39 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 21 20:01:50 scotty pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Jun 21 20:01:50 scotty pkexec[3365]: nquirk22: Executing command [USER=root] [TTY=unknown] [CWD=/home/nquirk22] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Jun 21 20:03:22 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22 ; USER=root ; COMMAND=/usr/bin/mysql auth
+Jun 21 20:03:22 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 21 20:06:41 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 21 20:06:48 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22 ; USER=root ; COMMAND=/bin/su
+Jun 21 20:06:48 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 21 20:06:48 scotty su[3444]: Successful su for root by root
+Jun 21 20:06:48 scotty su[3444]: + /dev/pts/0 root:root
+Jun 21 20:06:48 scotty su[3444]: pam_unix(su:session): session opened for user root by (uid=0)
+Jun 21 20:06:48 scotty su[3444]: pam_systemd(su:session): Cannot create session: Already running in a session
+Jun 21 20:08:21 scotty sudo:     root : TTY=pts/0 ; PWD=/usr/local/bin ; USER=root ; COMMAND=/bin/chmod 750 /usr/local/bin/dbauth
+Jun 21 20:08:21 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 21 20:08:21 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 21 20:08:48 scotty sudo:     root : TTY=pts/0 ; PWD=/usr/local/bin ; USER=root ; COMMAND=/bin/chown root:www-data /usr/local/bin/dbauth
+Jun 21 20:08:48 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 21 20:08:48 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 21 20:09:01 scotty CRON[3478]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 20:09:01 scotty CRON[3478]: pam_unix(cron:session): session closed for user root
+Jun 21 20:09:26 scotty sudo:     root : TTY=pts/0 ; PWD=/usr/local/bin ; USER=root ; COMMAND=/usr/local/bin/dbauth
+Jun 21 20:09:26 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 21 20:09:33 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 21 20:09:40 scotty su[3444]: pam_unix(su:session): session closed for user root
+Jun 21 20:09:40 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 21 20:09:47 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22 ; USER=root ; COMMAND=/usr/local/bin/dbauth
+Jun 21 20:09:47 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 21 20:10:06 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 21 20:10:23 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22 ; USER=root ; COMMAND=/usr/local/bin/dbauth
+Jun 21 20:10:23 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 21 20:10:31 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 21 20:10:41 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22 ; USER=root ; COMMAND=/usr/local/bin/dbauth
+Jun 21 20:10:41 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 21 20:10:45 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 21 20:11:12 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22 ; USER=root ; COMMAND=/bin/nano /etc/apache2/local.conf
+Jun 21 20:11:12 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 21 20:11:37 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 21 20:11:59 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22 ; USER=root ; COMMAND=/bin/systemctl restart apache2
+Jun 21 20:11:59 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 21 20:11:59 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 21 20:12:37 scotty apache2: DIGEST-MD5 common mech free
+Jun 21 20:13:16 scotty apache2: message repeated 27 times: [ DIGEST-MD5 common mech free]
+Jun 21 20:13:16 scotty saslauthd[9658]: pam_unix(http:auth): check pass; user unknown
+Jun 21 20:13:16 scotty saslauthd[9658]: pam_unix(http:auth): authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=
+Jun 21 20:13:18 scotty saslauthd[9658]: DEBUG: auth_pam: pam_authenticate failed: Authentication failure
+Jun 21 20:13:18 scotty saslauthd[9658]:                 : auth failure: [user=myuser] [service=http] [realm=] [mech=pam] [reason=PAM auth error]
+Jun 21 20:13:20 scotty apache2: DIGEST-MD5 common mech free
+Jun 21 20:13:21 scotty apache2: message repeated 8 times: [ DIGEST-MD5 common mech free]
+Jun 21 20:13:53 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22 ; USER=root ; COMMAND=/bin/nano /etc/apache2/local.conf
+Jun 21 20:13:53 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 21 20:15:00 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 21 20:15:02 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22 ; USER=root ; COMMAND=/bin/nano /etc/apache2/local.conf
+Jun 21 20:15:02 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 21 20:15:27 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 21 20:15:29 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22 ; USER=root ; COMMAND=/bin/nano /etc/apache2/local.conf
+Jun 21 20:15:29 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 21 20:16:03 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 21 20:17:01 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22 ; USER=root ; COMMAND=/bin/systemctl restart apache2
+Jun 21 20:17:01 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 21 20:17:01 scotty CRON[3886]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 20:17:01 scotty CRON[3886]: pam_unix(cron:session): session closed for user root
+Jun 21 20:17:01 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 21 20:17:34 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22 ; USER=root ; COMMAND=/usr/sbin/a2enmod ssl
+Jun 21 20:17:34 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 21 20:17:34 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 21 20:17:48 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22 ; USER=root ; COMMAND=/usr/sbin/a2ensite default-ssl
+Jun 21 20:17:48 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 21 20:17:48 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 21 20:18:00 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22 ; USER=root ; COMMAND=/bin/systemctl reload apache2
+Jun 21 20:18:00 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 21 20:18:00 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 21 20:18:31 scotty saslauthd[9661]: pam_unix(http:auth): check pass; user unknown
+Jun 21 20:18:31 scotty saslauthd[9661]: pam_unix(http:auth): authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=
+Jun 21 20:18:32 scotty saslauthd[9661]: DEBUG: auth_pam: pam_authenticate failed: Authentication failure
+Jun 21 20:18:32 scotty saslauthd[9661]:                 : auth failure: [user=myuser] [service=http] [realm=] [mech=pam] [reason=PAM auth error]
+Jun 21 20:19:01 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22 ; USER=root ; COMMAND=/bin/nano /etc/apache2/conf-available/local.conf
+Jun 21 20:19:01 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 21 20:19:42 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 21 20:19:55 scotty polkitd(authority=local): Registered Authentication Agent for unix-process:3985:55607082 (system bus name :1.386 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Jun 21 20:20:02 scotty polkitd(authority=local): Operator of unix-session:c16 successfully authenticated as unix-user:nquirk22 to gain TEMPORARY authorization for action org.freedesktop.systemd1.manage-units for system-bus-name::1.387 [systemctl restart apache2] (owned by unix-user:nquirk22)
+Jun 21 20:20:02 scotty polkitd(authority=local): Unregistered Authentication Agent for unix-process:3985:55607082 (system bus name :1.386, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Jun 21 20:20:31 scotty apache2: DIGEST-MD5 common mech free
+Jun 21 20:20:36 scotty apache2: message repeated 16 times: [ DIGEST-MD5 common mech free]
+Jun 21 20:20:36 scotty saslauthd[9659]: pam_unix(http:auth): check pass; user unknown
+Jun 21 20:20:36 scotty saslauthd[9659]: pam_unix(http:auth): authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=
+Jun 21 20:20:37 scotty saslauthd[9659]: DEBUG: auth_pam: pam_authenticate failed: Authentication failure
+Jun 21 20:20:37 scotty saslauthd[9659]:                 : auth failure: [user=myuser] [service=http] [realm=] [mech=pam] [reason=PAM auth error]
+Jun 21 20:21:03 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22 ; USER=root ; COMMAND=/bin/nano /etc/apache2/sites-enabled/000-default.conf
+Jun 21 20:21:03 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 21 20:21:47 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 21 20:21:52 scotty polkitd(authority=local): Registered Authentication Agent for unix-process:4125:55618820 (system bus name :1.391 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Jun 21 20:21:58 scotty polkitd(authority=local): Operator of unix-session:c16 FAILED to authenticate to gain authorization for action org.freedesktop.systemd1.manage-units for system-bus-name::1.392 [systemctl restart apache2] (owned by unix-user:nquirk22)
+Jun 21 20:21:58 scotty polkitd(authority=local): Unregistered Authentication Agent for unix-process:4125:55618820 (system bus name :1.391, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Jun 21 20:22:03 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22 ; USER=root ; COMMAND=/bin/systemctl restart apache2
+Jun 21 20:22:03 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 21 20:22:03 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 21 20:22:41 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22 ; USER=root ; COMMAND=/usr/bin/apt install python3-django python3-pymysql
+Jun 21 20:22:41 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 21 20:22:49 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 21 20:22:50 scotty pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Jun 21 20:22:50 scotty pkexec[4916]: nquirk22: Executing command [USER=root] [TTY=unknown] [CWD=/home/nquirk22] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Jun 21 20:37:50 scotty pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Jun 21 20:37:50 scotty pkexec[5428]: nquirk22: Executing command [USER=root] [TTY=unknown] [CWD=/home/nquirk22] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Jun 21 20:39:01 scotty CRON[5480]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 20:39:01 scotty CRON[5480]: pam_unix(cron:session): session closed for user root
+Jun 21 20:45:13 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22/eclipse-workspace/appsite ; USER=root ; COMMAND=/usr/bin/apt install libapache2-mod-wsgi-py3
+Jun 21 20:45:13 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 21 20:45:16 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 21 20:46:13 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/etc ; USER=root ; COMMAND=/bin/nano hosts
+Jun 21 20:46:13 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 21 20:46:30 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 21 20:46:36 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/etc ; USER=root ; COMMAND=/bin/nano hosts
+Jun 21 20:46:36 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 21 20:46:45 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 21 20:46:50 scotty pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Jun 21 20:46:50 scotty pkexec[5949]: nquirk22: Executing command [USER=root] [TTY=unknown] [CWD=/home/nquirk22] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Jun 21 20:49:20 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/etc ; USER=root ; COMMAND=/bin/nano /etc/apache2/sites-available/appsite.conf
+Jun 21 20:49:20 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 21 20:50:36 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 21 20:51:15 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/etc ; USER=root ; COMMAND=/bin/nano /home/nquirk22/eclipse-workspace/appsite/appsite/settings.py
+Jun 21 20:51:15 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 21 20:53:22 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 21 20:53:48 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/etc ; USER=root ; COMMAND=/usr/sbin/a2ensite appsite
+Jun 21 20:53:48 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 21 20:53:48 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 21 20:54:01 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/etc ; USER=root ; COMMAND=/bin/systemctl reload apache2
+Jun 21 20:54:01 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 21 20:54:01 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 21 20:55:20 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/etc ; USER=root ; COMMAND=/bin/systemctl reload apache2
+Jun 21 20:55:20 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 21 20:55:20 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 21 20:55:44 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/etc ; USER=root ; COMMAND=/usr/sbin/a2enmod proxy_http
+Jun 21 20:55:44 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 21 20:55:44 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 21 20:59:34 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/etc ; USER=root ; COMMAND=/bin/nano apache2/sites-enabled/000-default.conf
+Jun 21 20:59:34 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 21 21:01:09 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 21 21:01:13 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/etc ; USER=root ; COMMAND=/bin/systemctl reload apache2
+Jun 21 21:01:13 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 21 21:01:14 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 21 21:01:22 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/etc ; USER=root ; COMMAND=/bin/systemctl restart apache2
+Jun 21 21:01:22 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 21 21:01:22 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 21 21:09:01 scotty CRON[6576]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 21:09:01 scotty CRON[6576]: pam_unix(cron:session): session closed for user root
+Jun 21 21:17:01 scotty CRON[7103]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 21:17:01 scotty CRON[7103]: pam_unix(cron:session): session closed for user root
+Jun 21 21:22:33 scotty sudo: pam_unix(sudo:auth): authentication failure; logname= uid=1000 euid=0 tty=/dev/pts/0 ruser=nquirk22 rhost=  user=nquirk22
+Jun 21 21:22:41 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/etc ; USER=root ; COMMAND=/bin/systemctl restart apache2
+Jun 21 21:22:41 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 21 21:22:41 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 21 21:23:51 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/etc ; USER=root ; COMMAND=/bin/systemctl restart apache2
+Jun 21 21:23:51 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 21 21:23:51 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 21 21:26:06 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/etc ; USER=root ; COMMAND=/bin/mkdir /var/www/html/static
+Jun 21 21:26:06 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 21 21:26:06 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 21 21:26:13 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/etc ; USER=root ; COMMAND=/bin/chown nquirk22
+Jun 21 21:26:13 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 21 21:26:13 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 21 21:26:25 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/etc ; USER=root ; COMMAND=/bin/chown nquirk22 /var/www/html/static
+Jun 21 21:26:25 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 21 21:26:25 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 21 21:39:01 scotty CRON[7851]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 21:39:01 scotty CRON[7851]: pam_unix(cron:session): session closed for user root
+Jun 21 22:09:01 scotty CRON[8228]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 22:09:01 scotty CRON[8228]: pam_unix(cron:session): session closed for user root
+Jun 21 22:17:01 scotty CRON[8376]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 22:17:01 scotty CRON[8376]: pam_unix(cron:session): session closed for user root
+Jun 21 22:39:01 scotty CRON[8597]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 22:39:01 scotty CRON[8597]: pam_unix(cron:session): session closed for user root
+Jun 21 23:09:01 scotty CRON[8963]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 23:09:02 scotty CRON[8963]: pam_unix(cron:session): session closed for user root
+Jun 21 23:17:02 scotty CRON[9117]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 23:17:02 scotty CRON[9117]: pam_unix(cron:session): session closed for user root
+Jun 21 23:39:01 scotty CRON[9330]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 21 23:39:01 scotty CRON[9330]: pam_unix(cron:session): session closed for user root
+Jun 22 00:09:01 scotty CRON[9931]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 00:09:01 scotty CRON[9931]: pam_unix(cron:session): session closed for user root
+Jun 22 00:17:01 scotty CRON[10075]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 00:17:01 scotty CRON[10075]: pam_unix(cron:session): session closed for user root
+Jun 22 00:39:01 scotty CRON[10342]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 00:39:01 scotty CRON[10342]: pam_unix(cron:session): session closed for user root
+Jun 22 01:09:01 scotty CRON[10730]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 01:09:01 scotty CRON[10730]: pam_unix(cron:session): session closed for user root
+Jun 22 01:17:01 scotty CRON[10873]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 01:17:01 scotty CRON[10873]: pam_unix(cron:session): session closed for user root
+Jun 22 01:39:01 scotty CRON[11096]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 01:39:01 scotty CRON[11096]: pam_unix(cron:session): session closed for user root
+Jun 22 02:09:01 scotty CRON[11465]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 02:09:01 scotty CRON[11465]: pam_unix(cron:session): session closed for user root
+Jun 22 02:17:01 scotty CRON[11615]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 02:17:01 scotty CRON[11615]: pam_unix(cron:session): session closed for user root
+Jun 22 02:39:01 scotty CRON[11834]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 02:39:01 scotty CRON[11834]: pam_unix(cron:session): session closed for user root
+Jun 22 03:09:01 scotty CRON[12217]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 03:09:01 scotty CRON[12217]: pam_unix(cron:session): session closed for user root
+Jun 22 03:17:01 scotty CRON[12360]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 03:17:01 scotty CRON[12360]: pam_unix(cron:session): session closed for user root
+Jun 22 03:39:01 scotty CRON[12578]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 03:39:01 scotty CRON[12578]: pam_unix(cron:session): session closed for user root
+Jun 22 04:09:01 scotty CRON[13009]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 04:09:01 scotty CRON[13009]: pam_unix(cron:session): session closed for user root
+Jun 22 04:17:01 scotty CRON[13080]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 04:17:01 scotty CRON[13080]: pam_unix(cron:session): session closed for user root
+Jun 22 04:39:01 scotty CRON[13325]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 04:39:01 scotty CRON[13325]: pam_unix(cron:session): session closed for user root
+Jun 22 05:09:01 scotty CRON[13680]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 05:09:01 scotty CRON[13680]: pam_unix(cron:session): session closed for user root
+Jun 22 05:17:01 scotty CRON[13817]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 05:17:01 scotty CRON[13817]: pam_unix(cron:session): session closed for user root
+Jun 22 05:39:01 scotty CRON[14093]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 05:39:01 scotty CRON[14093]: pam_unix(cron:session): session closed for user root
+Jun 22 06:09:01 scotty CRON[14407]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 06:09:01 scotty CRON[14407]: pam_unix(cron:session): session closed for user root
+Jun 22 06:12:01 scotty CRON[14967]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 06:12:01 scotty CRON[14967]: pam_unix(cron:session): session closed for user root
+Jun 22 06:13:50 scotty pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Jun 22 06:13:50 scotty pkexec[14989]: nquirk22: Executing command [USER=root] [TTY=unknown] [CWD=/home/nquirk22] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Jun 22 06:17:01 scotty CRON[15032]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 06:17:01 scotty CRON[15032]: pam_unix(cron:session): session closed for user root
+Jun 22 06:25:01 scotty CRON[15117]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 06:25:01 scotty CRON[15117]: pam_unix(cron:session): session closed for user root
+Jun 22 06:39:01 scotty CRON[15329]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 06:39:01 scotty CRON[15329]: pam_unix(cron:session): session closed for user root
+Jun 22 07:09:01 scotty CRON[15674]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 07:09:01 scotty CRON[15674]: pam_unix(cron:session): session closed for user root
+Jun 22 07:17:01 scotty CRON[15809]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 07:17:01 scotty CRON[15809]: pam_unix(cron:session): session closed for user root
+Jun 22 07:30:01 scotty CRON[15939]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 07:30:01 scotty CRON[15939]: pam_unix(cron:session): session closed for user root
+Jun 22 07:39:01 scotty CRON[16036]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 07:39:01 scotty CRON[16036]: pam_unix(cron:session): session closed for user root
+Jun 22 08:09:01 scotty CRON[16395]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 08:09:01 scotty CRON[16395]: pam_unix(cron:session): session closed for user root
+Jun 22 08:17:01 scotty CRON[16543]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 08:17:01 scotty CRON[16543]: pam_unix(cron:session): session closed for user root
+Jun 22 08:39:01 scotty CRON[16760]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 08:39:01 scotty CRON[16760]: pam_unix(cron:session): session closed for user root
+Jun 22 09:09:01 scotty CRON[17185]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 09:09:01 scotty CRON[17185]: pam_unix(cron:session): session closed for user root
+Jun 22 09:17:01 scotty CRON[17259]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 09:17:01 scotty CRON[17259]: pam_unix(cron:session): session closed for user root
+Jun 22 09:23:54 scotty sshd[17331]: Accepted publickey for instructor from 2605:0:103:200:144:26:62:134 port 59820 ssh2: RSA SHA256:eRMJdD6mUSx6BcGdo4glad8HY2Ctax/iHmfp+LA3gxY
+Jun 22 09:23:54 scotty sshd[17331]: pam_unix(sshd:session): session opened for user instructor by (uid=0)
+Jun 22 09:23:54 scotty systemd: pam_unix(systemd-user:session): session opened for user instructor by (uid=0)
+Jun 22 09:23:54 scotty systemd-logind[761]: New session 380 of user instructor.
+Jun 22 09:23:55 scotty sshd[17436]: Received disconnect from 2605:0:103:200:144:26:62:134 port 59820:11: disconnected by user
+Jun 22 09:23:55 scotty sshd[17436]: Disconnected from user instructor 2605:0:103:200:144:26:62:134 port 59820
+Jun 22 09:23:55 scotty sshd[17331]: pam_unix(sshd:session): session closed for user instructor
+Jun 22 09:23:55 scotty systemd-logind[761]: Removed session 380.
+Jun 22 09:25:44 scotty sshd[17458]: Accepted publickey for instructor from 2605:0:103:200:144:26:62:134 port 59836 ssh2: RSA SHA256:eRMJdD6mUSx6BcGdo4glad8HY2Ctax/iHmfp+LA3gxY
+Jun 22 09:25:44 scotty sshd[17458]: pam_unix(sshd:session): session opened for user instructor by (uid=0)
+Jun 22 09:25:44 scotty systemd-logind[761]: New session 382 of user instructor.
+Jun 22 09:25:44 scotty systemd: pam_unix(systemd-user:session): session opened for user instructor by (uid=0)
+Jun 22 09:25:45 scotty sshd[17534]: Received disconnect from 2605:0:103:200:144:26:62:134 port 59836:11: disconnected by user
+Jun 22 09:25:45 scotty sshd[17534]: Disconnected from user instructor 2605:0:103:200:144:26:62:134 port 59836
+Jun 22 09:25:45 scotty sshd[17458]: pam_unix(sshd:session): session closed for user instructor
+Jun 22 09:25:45 scotty systemd-logind[761]: Removed session 382.
+Jun 22 09:39:01 scotty CRON[17691]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 09:39:01 scotty CRON[17691]: pam_unix(cron:session): session closed for user root
+Jun 22 10:09:01 scotty CRON[18095]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 10:09:01 scotty CRON[18095]: pam_unix(cron:session): session closed for user root
+Jun 22 10:17:01 scotty CRON[18240]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 10:17:01 scotty CRON[18240]: pam_unix(cron:session): session closed for user root
+Jun 22 10:39:01 scotty CRON[18464]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 10:39:01 scotty CRON[18464]: pam_unix(cron:session): session closed for user root
+Jun 22 10:50:40 scotty nxexec: pam_unix(nx:session): session opened for user nquirk22 by (uid=122)
+Jun 22 10:50:40 scotty systemd-logind[761]: New session c18 of user nquirk22.
+Jun 22 10:51:00 scotty mate-screensaver-dialog: gkr-pam: unlocked login keyring
+Jun 22 11:09:01 scotty CRON[19074]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 11:09:01 scotty CRON[19074]: pam_unix(cron:session): session closed for user root
+Jun 22 11:17:01 scotty CRON[19218]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 11:17:01 scotty CRON[19218]: pam_unix(cron:session): session closed for user root
+Jun 22 11:39:01 scotty CRON[19517]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 11:39:01 scotty CRON[19517]: pam_unix(cron:session): session closed for user root
+Jun 22 11:39:02 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22/eclipse-workspace/appsite ; USER=root ; COMMAND=/usr/bin/mysql
+Jun 22 11:39:02 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 22 11:39:02 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 22 12:01:46 scotty polkitd(authority=local): Registered Authentication Agent for unix-process:19875:61258226 (system bus name :1.422 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Jun 22 12:01:53 scotty polkitd(authority=local): Operator of unix-session:c16 successfully authenticated as unix-user:nquirk22 to gain TEMPORARY authorization for action org.freedesktop.systemd1.manage-units for system-bus-name::1.423 [systemctl restart apache2] (owned by unix-user:nquirk22)
+Jun 22 12:01:53 scotty polkitd(authority=local): Unregistered Authentication Agent for unix-process:19875:61258226 (system bus name :1.422, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Jun 22 12:02:19 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22/eclipse-workspace/appsite ; USER=root ; COMMAND=/usr/bin/mysql
+Jun 22 12:02:19 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 22 12:02:19 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 22 12:03:40 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22/eclipse-workspace/appsite ; USER=root ; COMMAND=/usr/bin/mysql
+Jun 22 12:03:40 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 22 12:03:40 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 22 12:09:01 scotty CRON[20064]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 12:09:01 scotty CRON[20064]: pam_unix(cron:session): session closed for user root
+Jun 22 12:13:39 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22/eclipse-workspace/appsite ; USER=root ; COMMAND=/usr/bin/mysql
+Jun 22 12:13:39 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 22 12:15:24 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 22 12:16:18 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22/eclipse-workspace/appsite ; USER=root ; COMMAND=/usr/bin/mysqlshow
+Jun 22 12:16:18 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 22 12:16:18 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 22 12:16:48 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22/eclipse-workspace/appsite ; USER=root ; COMMAND=/usr/bin/mysqlshow mysql
+Jun 22 12:16:48 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 22 12:16:48 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 22 12:17:01 scotty CRON[20268]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 12:17:01 scotty CRON[20268]: pam_unix(cron:session): session closed for user root
+Jun 22 12:39:01 scotty CRON[20581]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 12:39:01 scotty CRON[20581]: pam_unix(cron:session): session closed for user root
+Jun 22 13:09:01 scotty CRON[20873]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 13:09:01 scotty CRON[20873]: pam_unix(cron:session): session closed for user root
+Jun 22 13:17:01 scotty CRON[21013]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 13:17:01 scotty CRON[21013]: pam_unix(cron:session): session closed for user root
+Jun 22 13:39:01 scotty CRON[21225]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 13:39:01 scotty CRON[21225]: pam_unix(cron:session): session closed for user root
+Jun 22 13:59:26 scotty nxexec: pam_unix(nx:session): session closed for user nquirk22
+Jun 22 13:59:26 scotty systemd-logind[761]: Removed session c18.
+Jun 22 14:03:22 scotty nxexec: pam_unix(nx:session): session opened for user nquirk22 by (uid=122)
+Jun 22 14:03:22 scotty systemd-logind[761]: New session c19 of user nquirk22.
+Jun 22 14:05:46 scotty mate-screensaver-dialog: gkr-pam: unlocked login keyring
+Jun 22 14:08:38 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22 ; USER=root ; COMMAND=/sbin/reboot
+Jun 22 14:08:38 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 22 14:09:29 scotty systemd-logind[847]: New seat seat0.
+Jun 22 14:09:29 scotty systemd-logind[847]: Watching system buttons on /dev/input/event2 (Power Button)
+Jun 22 14:09:29 scotty systemd-logind[847]: Watching system buttons on /dev/input/event1 (Power Button)
+Jun 22 14:09:29 scotty systemd-logind[847]: Watching system buttons on /dev/input/event0 (Sleep Button)
+Jun 22 14:09:29 scotty systemd-logind[847]: Watching system buttons on /dev/input/event4 (NOVATEK USB NETVISTA FULL WIDTH KEYBOARD)
+Jun 22 14:09:29 scotty systemd-logind[847]: Watching system buttons on /dev/input/event5 (NOVATEK USB NETVISTA FULL WIDTH KEYBOARD)
+Jun 22 14:09:29 scotty saslauthd[934]:                 : master pid is: 934
+Jun 22 14:09:29 scotty saslauthd[934]:                 : listening on socket: /var/run/saslauthd/mux
+Jun 22 14:09:29 scotty sshd[1013]: Server listening on 0.0.0.0 port 22.
+Jun 22 14:09:29 scotty sshd[1013]: Server listening on :: port 22.
+Jun 22 14:09:30 scotty lightdm: PAM unable to dlopen(pam_kwallet.so): /lib/security/pam_kwallet.so: cannot open shared object file: No such file or directory
+Jun 22 14:09:30 scotty lightdm: PAM adding faulty module: pam_kwallet.so
+Jun 22 14:09:30 scotty lightdm: PAM unable to dlopen(pam_kwallet5.so): /lib/security/pam_kwallet5.so: cannot open shared object file: No such file or directory
+Jun 22 14:09:30 scotty lightdm: PAM adding faulty module: pam_kwallet5.so
+Jun 22 14:09:30 scotty lightdm: pam_unix(lightdm-greeter:session): session opened for user lightdm by (uid=0)
+Jun 22 14:09:30 scotty systemd-logind[847]: New session c1 of user lightdm.
+Jun 22 14:09:30 scotty systemd: pam_unix(systemd-user:session): session opened for user lightdm by (uid=0)
+Jun 22 14:09:31 scotty lightdm: PAM unable to dlopen(pam_kwallet.so): /lib/security/pam_kwallet.so: cannot open shared object file: No such file or directory
+Jun 22 14:09:31 scotty lightdm: PAM adding faulty module: pam_kwallet.so
+Jun 22 14:09:31 scotty lightdm: PAM unable to dlopen(pam_kwallet5.so): /lib/security/pam_kwallet5.so: cannot open shared object file: No such file or directory
+Jun 22 14:09:31 scotty lightdm: PAM adding faulty module: pam_kwallet5.so
+Jun 22 14:09:32 scotty sshd[1013]: Received SIGHUP; restarting.
+Jun 22 14:09:32 scotty sshd[1013]: Server listening on 0.0.0.0 port 22.
+Jun 22 14:09:32 scotty sshd[1013]: Server listening on :: port 22.
+Jun 22 14:09:32 scotty sshd[1013]: Received SIGHUP; restarting.
+Jun 22 14:09:32 scotty sshd[1013]: Server listening on 0.0.0.0 port 22.
+Jun 22 14:09:32 scotty sshd[1013]: Server listening on :: port 22.
+Jun 22 14:09:41 scotty nxexec: pam_unix(nx:session): session opened for user lightdm by (uid=122)
+Jun 22 14:09:41 scotty systemd-logind[847]: New session c2 of user lightdm.
+Jun 22 14:14:17 scotty nxexec: pam_unix(nx:session): session opened for user nquirk22 by (uid=122)
+Jun 22 14:14:17 scotty systemd-logind[847]: New session c3 of user nquirk22.
+Jun 22 14:14:17 scotty systemd: pam_unix(systemd-user:session): session opened for user nquirk22 by (uid=0)
+Jun 22 14:14:31 scotty lightdm: pam_succeed_if(lightdm:auth): requirement "user ingroup nopasswdlogin" not met by user "nquirk22"
+Jun 22 14:14:36 scotty lightdm: pam_unix(lightdm:session): session opened for user nquirk22 by (uid=0)
+Jun 22 14:14:36 scotty systemd-logind[847]: New session c4 of user nquirk22.
+Jun 22 14:14:36 scotty systemd-logind[847]: Removed session c1.
+Jun 22 14:14:38 scotty gnome-keyring-daemon[1756]: The Secret Service was already initialized
+Jun 22 14:14:38 scotty polkitd(authority=local): Registered Authentication Agent for unix-session:c4 (system bus name :1.77 [/usr/lib/x86_64-linux-gnu/polkit-mate/polkit-mate-authentication-agent-1], object path /org/mate/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Jun 22 14:14:38 scotty gnome-keyring-daemon[1756]: The SSH agent was already initialized
+Jun 22 14:14:38 scotty gnome-keyring-daemon[1756]: The PKCS#11 component was already initialized
+Jun 22 14:14:42 scotty pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Jun 22 14:14:42 scotty pkexec[2441]: nquirk22: Executing command [USER=root] [TTY=unknown] [CWD=/home/nquirk22] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Jun 22 14:14:46 scotty gnome-keyring-daemon[1756]: couldn't allocate secure memory to keep passwords and or keys from being written to the disk
+Jun 22 14:14:46 scotty gnome-keyring-daemon[1756]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Jun 22 14:14:47 scotty gnome-keyring-daemon[1756]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Jun 22 14:14:51 scotty nxexec: pam_unix(nx:session): session closed for user lightdm
+Jun 22 14:14:51 scotty nxexec: pam_unix(nx:session): session opened for user nquirk22 by (uid=122)
+Jun 22 14:14:51 scotty systemd-logind[847]: New session c5 of user nquirk22.
+Jun 22 14:15:11 scotty systemd-logind[847]: Removed session c2.
+Jun 22 14:15:11 scotty systemd: pam_unix(systemd-user:session): session closed for user lightdm
+Jun 22 14:16:55 scotty saslauthd[935]:                 : NULL password received
+Jun 22 14:17:01 scotty CRON[3289]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 14:17:01 scotty CRON[3289]: pam_unix(cron:session): session closed for user root
+Jun 22 14:17:02 scotty saslauthd[936]: pam_unix(http:auth): authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root
+Jun 22 14:17:04 scotty saslauthd[936]: DEBUG: auth_pam: pam_authenticate failed: Authentication failure
+Jun 22 14:17:04 scotty saslauthd[936]:                 : auth failure: [user=root] [service=http] [realm=] [mech=pam] [reason=PAM auth error]
+Jun 22 14:23:28 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22/eclipse-workspace/appsite ; USER=root ; COMMAND=/usr/bin/mysqlshow
+Jun 22 14:23:28 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 22 14:23:28 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 22 14:23:50 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22/eclipse-workspace/appsite ; USER=root ; COMMAND=/usr/bin/mysqlshow mysql
+Jun 22 14:23:50 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 22 14:23:50 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 22 14:24:52 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22/eclipse-workspace/appsite ; USER=root ; COMMAND=/usr/bin/mysql
+Jun 22 14:24:52 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 22 14:24:52 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 22 14:24:57 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22/eclipse-workspace/appsite ; USER=root ; COMMAND=/usr/bin/mysqlshow mysql
+Jun 22 14:24:57 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 22 14:24:57 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 22 14:25:04 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22/eclipse-workspace/appsite ; USER=root ; COMMAND=/usr/bin/mysqlshow
+Jun 22 14:25:04 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 22 14:25:04 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 22 14:26:31 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22/eclipse-workspace/appsite ; USER=root ; COMMAND=/bin/nano create_appsite.sql
+Jun 22 14:26:31 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 22 14:26:55 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 22 14:27:02 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22/eclipse-workspace/appsite ; USER=root ; COMMAND=/usr/bin/mysql
+Jun 22 14:27:02 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 22 14:27:02 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 22 14:27:11 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22/eclipse-workspace/appsite ; USER=root ; COMMAND=/usr/bin/mysqlshow
+Jun 22 14:27:11 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 22 14:27:11 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 22 14:39:01 scotty CRON[3717]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 14:39:01 scotty CRON[3717]: pam_unix(cron:session): session closed for user root
+Jun 22 14:41:55 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22/eclipse-workspace/appsite ; USER=root ; COMMAND=/usr/bin/mysql appsite
+Jun 22 14:41:55 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 22 14:41:55 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 22 15:05:39 scotty polkitd(authority=local): Unregistered Authentication Agent for unix-session:c4 (system bus name :1.77, object path /org/mate/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Jun 22 15:05:39 scotty lightdm: pam_unix(lightdm:session): session closed for user nquirk22
+Jun 22 15:05:39 scotty nxexec: pam_unix(nx:session): session closed for user nquirk22
+Jun 22 15:05:39 scotty systemd-logind[847]: Removed session c5.
+Jun 22 15:05:40 scotty lightdm: PAM unable to dlopen(pam_kwallet.so): /lib/security/pam_kwallet.so: cannot open shared object file: No such file or directory
+Jun 22 15:05:40 scotty lightdm: PAM adding faulty module: pam_kwallet.so
+Jun 22 15:05:40 scotty lightdm: PAM unable to dlopen(pam_kwallet5.so): /lib/security/pam_kwallet5.so: cannot open shared object file: No such file or directory
+Jun 22 15:05:40 scotty lightdm: PAM adding faulty module: pam_kwallet5.so
+Jun 22 15:05:40 scotty lightdm: pam_unix(lightdm-greeter:session): session opened for user lightdm by (uid=0)
+Jun 22 15:05:40 scotty systemd-logind[847]: New session c6 of user lightdm.
+Jun 22 15:05:40 scotty systemd: pam_unix(systemd-user:session): session opened for user lightdm by (uid=0)
+Jun 22 15:05:41 scotty lightdm: PAM unable to dlopen(pam_kwallet.so): /lib/security/pam_kwallet.so: cannot open shared object file: No such file or directory
+Jun 22 15:05:41 scotty lightdm: PAM adding faulty module: pam_kwallet.so
+Jun 22 15:05:41 scotty lightdm: PAM unable to dlopen(pam_kwallet5.so): /lib/security/pam_kwallet5.so: cannot open shared object file: No such file or directory
+Jun 22 15:05:41 scotty lightdm: PAM adding faulty module: pam_kwallet5.so
+Jun 22 15:05:51 scotty nxexec: pam_unix(nx:session): session closed for user nquirk22
+Jun 22 15:05:51 scotty systemd-logind[847]: Removed session c3.
+Jun 22 15:06:01 scotty nxexec: pam_unix(nx:session): session opened for user lightdm by (uid=122)
+Jun 22 15:06:01 scotty systemd-logind[847]: New session c7 of user lightdm.
+Jun 22 15:09:01 scotty CRON[4505]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 15:09:01 scotty CRON[4505]: pam_unix(cron:session): session closed for user root
+Jun 22 15:17:01 scotty CRON[4637]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 15:17:01 scotty CRON[4637]: pam_unix(cron:session): session closed for user root
+Jun 22 15:39:01 scotty CRON[4805]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 15:39:01 scotty CRON[4805]: pam_unix(cron:session): session closed for user root
+Jun 22 16:09:01 scotty CRON[5114]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 16:09:01 scotty CRON[5114]: pam_unix(cron:session): session closed for user root
+Jun 22 16:17:01 scotty CRON[5241]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 16:17:01 scotty CRON[5241]: pam_unix(cron:session): session closed for user root
+Jun 22 16:39:01 scotty CRON[5418]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 16:39:01 scotty CRON[5418]: pam_unix(cron:session): session closed for user root
+Jun 22 17:09:01 scotty CRON[5718]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 17:09:01 scotty CRON[5718]: pam_unix(cron:session): session closed for user root
+Jun 22 17:17:01 scotty CRON[5843]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 17:17:01 scotty CRON[5843]: pam_unix(cron:session): session closed for user root
+Jun 22 17:39:01 scotty CRON[6020]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 17:39:01 scotty CRON[6020]: pam_unix(cron:session): session closed for user root
+Jun 22 18:09:01 scotty CRON[6331]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 18:09:01 scotty CRON[6331]: pam_unix(cron:session): session closed for user root
+Jun 22 18:17:01 scotty CRON[6455]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 18:17:01 scotty CRON[6455]: pam_unix(cron:session): session closed for user root
+Jun 22 18:39:01 scotty CRON[6628]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 18:39:01 scotty CRON[6628]: pam_unix(cron:session): session closed for user root
+Jun 22 19:09:01 scotty CRON[6928]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 19:09:01 scotty CRON[6928]: pam_unix(cron:session): session closed for user root
+Jun 22 19:17:01 scotty CRON[7057]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 19:17:01 scotty CRON[7057]: pam_unix(cron:session): session closed for user root
+Jun 22 19:39:01 scotty CRON[7232]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 19:39:01 scotty CRON[7232]: pam_unix(cron:session): session closed for user root
+Jun 22 20:09:01 scotty CRON[7537]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 20:09:01 scotty CRON[7537]: pam_unix(cron:session): session closed for user root
+Jun 22 20:17:01 scotty CRON[7668]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 20:17:01 scotty CRON[7668]: pam_unix(cron:session): session closed for user root
+Jun 22 20:39:01 scotty CRON[7846]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 20:39:01 scotty CRON[7846]: pam_unix(cron:session): session closed for user root
+Jun 22 21:09:01 scotty CRON[8150]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 21:09:01 scotty CRON[8150]: pam_unix(cron:session): session closed for user root
+Jun 22 21:17:01 scotty CRON[8280]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 21:17:01 scotty CRON[8280]: pam_unix(cron:session): session closed for user root
+Jun 22 21:39:01 scotty CRON[8445]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 21:39:01 scotty CRON[8445]: pam_unix(cron:session): session closed for user root
+Jun 22 22:09:01 scotty CRON[8748]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 22:09:01 scotty CRON[8748]: pam_unix(cron:session): session closed for user root
+Jun 22 22:17:01 scotty CRON[8872]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 22:17:01 scotty CRON[8872]: pam_unix(cron:session): session closed for user root
+Jun 22 22:39:01 scotty CRON[9048]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 22:39:01 scotty CRON[9048]: pam_unix(cron:session): session closed for user root
+Jun 22 23:09:01 scotty CRON[9339]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 23:09:01 scotty CRON[9339]: pam_unix(cron:session): session closed for user root
+Jun 22 23:17:01 scotty CRON[9527]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 23:17:01 scotty CRON[9527]: pam_unix(cron:session): session closed for user root
+Jun 22 23:39:01 scotty CRON[9695]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 23:39:01 scotty CRON[9695]: pam_unix(cron:session): session closed for user root
+Jun 23 00:09:01 scotty CRON[9985]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 23 00:09:01 scotty CRON[9985]: pam_unix(cron:session): session closed for user root
+Jun 23 00:17:01 scotty CRON[10270]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 23 00:17:01 scotty CRON[10270]: pam_unix(cron:session): session closed for user root
+Jun 23 00:39:01 scotty CRON[10458]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 23 00:39:01 scotty CRON[10458]: pam_unix(cron:session): session closed for user root
+Jun 23 00:56:57 scotty nxexec: pam_unix(nx:session): session opened for user nquirk22 by (uid=122)
+Jun 23 00:56:57 scotty systemd-logind[847]: New session c8 of user nquirk22.
+Jun 23 00:59:35 scotty lightdm: pam_succeed_if(lightdm:auth): requirement "user ingroup nopasswdlogin" not met by user "nquirk22"
+Jun 23 00:59:38 scotty systemd-logind[847]: Removed session c6.
+Jun 23 00:59:38 scotty lightdm: pam_unix(lightdm:session): session opened for user nquirk22 by (uid=0)
+Jun 23 00:59:38 scotty systemd-logind[847]: New session c9 of user nquirk22.
+Jun 23 00:59:40 scotty gnome-keyring-daemon[10889]: The Secret Service was already initialized
+Jun 23 00:59:40 scotty gnome-keyring-daemon[10889]: The SSH agent was already initialized
+Jun 23 00:59:40 scotty gnome-keyring-daemon[10889]: The PKCS#11 component was already initialized
+Jun 23 00:59:40 scotty polkitd(authority=local): Registered Authentication Agent for unix-session:c9 (system bus name :1.156 [/usr/lib/x86_64-linux-gnu/polkit-mate/polkit-mate-authentication-agent-1], object path /org/mate/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Jun 23 00:59:43 scotty pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Jun 23 00:59:43 scotty pkexec[11550]: nquirk22: Executing command [USER=root] [TTY=unknown] [CWD=/home/nquirk22] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Jun 23 00:59:49 scotty nxexec: pam_unix(nx:session): session closed for user lightdm
+Jun 23 00:59:49 scotty nxexec: pam_unix(nx:session): session opened for user nquirk22 by (uid=122)
+Jun 23 00:59:49 scotty systemd-logind[847]: New session c10 of user nquirk22.
+Jun 23 00:59:49 scotty gnome-keyring-daemon[10889]: couldn't allocate secure memory to keep passwords and or keys from being written to the disk
+Jun 23 00:59:49 scotty gnome-keyring-daemon[10889]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Jun 23 00:59:49 scotty gnome-keyring-daemon[10889]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Jun 23 01:00:09 scotty systemd-logind[847]: Removed session c7.
+Jun 23 01:00:09 scotty systemd: pam_unix(systemd-user:session): session closed for user lightdm
+Jun 23 01:00:40 scotty polkitd(authority=local): Unregistered Authentication Agent for unix-session:c9 (system bus name :1.156, object path /org/mate/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Jun 23 01:00:40 scotty lightdm: pam_unix(lightdm:session): session closed for user nquirk22
+Jun 23 01:00:40 scotty nxexec: pam_unix(nx:session): session closed for user nquirk22
+Jun 23 01:00:40 scotty systemd-logind[847]: Removed session c10.
+Jun 23 01:00:41 scotty lightdm: PAM unable to dlopen(pam_kwallet.so): /lib/security/pam_kwallet.so: cannot open shared object file: No such file or directory
+Jun 23 01:00:41 scotty lightdm: PAM adding faulty module: pam_kwallet.so
+Jun 23 01:00:41 scotty lightdm: PAM unable to dlopen(pam_kwallet5.so): /lib/security/pam_kwallet5.so: cannot open shared object file: No such file or directory
+Jun 23 01:00:41 scotty lightdm: PAM adding faulty module: pam_kwallet5.so
+Jun 23 01:00:41 scotty lightdm: pam_unix(lightdm-greeter:session): session opened for user lightdm by (uid=0)
+Jun 23 01:00:41 scotty systemd-logind[847]: New session c11 of user lightdm.
+Jun 23 01:00:41 scotty systemd: pam_unix(systemd-user:session): session opened for user lightdm by (uid=0)
+Jun 23 01:00:41 scotty lightdm: PAM unable to dlopen(pam_kwallet.so): /lib/security/pam_kwallet.so: cannot open shared object file: No such file or directory
+Jun 23 01:00:41 scotty lightdm: PAM adding faulty module: pam_kwallet.so
+Jun 23 01:00:41 scotty lightdm: PAM unable to dlopen(pam_kwallet5.so): /lib/security/pam_kwallet5.so: cannot open shared object file: No such file or directory
+Jun 23 01:00:41 scotty lightdm: PAM adding faulty module: pam_kwallet5.so
+Jun 23 01:00:51 scotty nxexec: pam_unix(nx:session): session opened for user lightdm by (uid=122)
+Jun 23 01:00:51 scotty systemd-logind[847]: New session c12 of user lightdm.
+Jun 23 01:00:53 scotty nxexec: pam_unix(nx:session): session closed for user nquirk22
+Jun 23 01:00:53 scotty systemd-logind[847]: Removed session c8.
+Jun 23 01:09:01 scotty CRON[12663]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 23 01:09:01 scotty CRON[12663]: pam_unix(cron:session): session closed for user root
+Jun 23 01:17:01 scotty CRON[12793]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 23 01:17:01 scotty CRON[12793]: pam_unix(cron:session): session closed for user root
+Jun 23 01:39:01 scotty CRON[12975]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 23 01:39:01 scotty CRON[12975]: pam_unix(cron:session): session closed for user root
+Jun 23 02:09:01 scotty CRON[13341]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 23 02:09:01 scotty CRON[13341]: pam_unix(cron:session): session closed for user root
+Jun 23 02:17:01 scotty CRON[13411]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 23 02:17:01 scotty CRON[13411]: pam_unix(cron:session): session closed for user root
+Jun 23 02:39:01 scotty CRON[13582]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 23 02:39:01 scotty CRON[13582]: pam_unix(cron:session): session closed for user root
+Jun 23 03:09:01 scotty CRON[13886]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 23 03:09:02 scotty CRON[13886]: pam_unix(cron:session): session closed for user root
+Jun 23 03:17:01 scotty CRON[14018]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 23 03:17:01 scotty CRON[14018]: pam_unix(cron:session): session closed for user root
+Jun 23 03:39:01 scotty CRON[14194]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 23 03:39:01 scotty CRON[14194]: pam_unix(cron:session): session closed for user root
+Jun 23 04:09:01 scotty CRON[14507]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 23 04:09:01 scotty CRON[14507]: pam_unix(cron:session): session closed for user root
+Jun 23 04:17:01 scotty CRON[14637]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 23 04:17:01 scotty CRON[14637]: pam_unix(cron:session): session closed for user root
+Jun 23 04:39:01 scotty CRON[14873]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 23 04:39:01 scotty CRON[14873]: pam_unix(cron:session): session closed for user root
+Jun 23 05:09:01 scotty CRON[15116]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 23 05:09:01 scotty CRON[15116]: pam_unix(cron:session): session closed for user root
+Jun 23 05:17:01 scotty CRON[15242]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 23 05:17:01 scotty CRON[15242]: pam_unix(cron:session): session closed for user root
+Jun 23 05:39:01 scotty CRON[15486]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 23 05:39:01 scotty CRON[15486]: pam_unix(cron:session): session closed for user root
+Jun 23 06:09:01 scotty CRON[15714]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 23 06:09:01 scotty CRON[15714]: pam_unix(cron:session): session closed for user root
+Jun 23 06:12:01 scotty CRON[15801]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 23 06:12:01 scotty CRON[15801]: pam_unix(cron:session): session closed for user root
+Jun 23 06:17:01 scotty CRON[15841]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 23 06:17:01 scotty CRON[15841]: pam_unix(cron:session): session closed for user root
+Jun 23 06:25:01 scotty CRON[15905]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 23 06:25:01 scotty CRON[15905]: pam_unix(cron:session): session closed for user root
+Jun 23 06:39:01 scotty CRON[16017]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 23 06:39:01 scotty CRON[16017]: pam_unix(cron:session): session closed for user root
+Jun 23 07:09:01 scotty CRON[16384]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 23 07:09:01 scotty CRON[16384]: pam_unix(cron:session): session closed for user root
+Jun 23 07:17:01 scotty CRON[16513]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 23 07:17:01 scotty CRON[16513]: pam_unix(cron:session): session closed for user root
+Jun 23 07:30:01 scotty CRON[16616]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 23 07:30:01 scotty CRON[16616]: pam_unix(cron:session): session closed for user root
+Jun 23 07:39:01 scotty CRON[16693]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 23 07:39:01 scotty CRON[16693]: pam_unix(cron:session): session closed for user root
+Jun 23 08:09:01 scotty CRON[17001]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 23 08:09:01 scotty CRON[17001]: pam_unix(cron:session): session closed for user root
+Jun 23 08:17:01 scotty CRON[17130]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 23 08:17:01 scotty CRON[17130]: pam_unix(cron:session): session closed for user root
+Jun 23 08:39:01 scotty CRON[17307]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 23 08:39:01 scotty CRON[17307]: pam_unix(cron:session): session closed for user root
+Jun 23 09:09:01 scotty CRON[17675]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 23 09:09:01 scotty CRON[17675]: pam_unix(cron:session): session closed for user root
+Jun 23 09:17:01 scotty CRON[17734]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 23 09:17:01 scotty CRON[17734]: pam_unix(cron:session): session closed for user root
+Jun 23 09:39:01 scotty CRON[17911]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 23 09:39:01 scotty CRON[17911]: pam_unix(cron:session): session closed for user root
+Jun 23 10:09:01 scotty CRON[18221]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 23 10:09:01 scotty CRON[18221]: pam_unix(cron:session): session closed for user root
+Jun 23 10:17:01 scotty CRON[18823]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 23 10:17:01 scotty CRON[18823]: pam_unix(cron:session): session closed for user root
+Jun 23 10:39:01 scotty CRON[18987]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 23 10:39:01 scotty CRON[18987]: pam_unix(cron:session): session closed for user root
+Jun 23 11:09:01 scotty CRON[19289]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 23 11:09:01 scotty CRON[19289]: pam_unix(cron:session): session closed for user root
+Jun 23 11:16:00 scotty nxexec: pam_unix(nx:session): session opened for user nquirk22 by (uid=122)
+Jun 23 11:16:00 scotty systemd-logind[847]: New session c13 of user nquirk22.
+Jun 23 11:16:18 scotty lightdm: pam_succeed_if(lightdm:auth): requirement "user ingroup nopasswdlogin" not met by user "nquirk22"
+Jun 23 11:16:24 scotty lightdm: pam_unix(lightdm:session): session opened for user nquirk22 by (uid=0)
+Jun 23 11:16:24 scotty systemd-logind[847]: Removed session c11.
+Jun 23 11:16:24 scotty systemd-logind[847]: New session c14 of user nquirk22.
+Jun 23 11:16:26 scotty gnome-keyring-daemon[19603]: The Secret Service was already initialized
+Jun 23 11:16:26 scotty gnome-keyring-daemon[19603]: The SSH agent was already initialized
+Jun 23 11:16:26 scotty gnome-keyring-daemon[19603]: The PKCS#11 component was already initialized
+Jun 23 11:16:26 scotty polkitd(authority=local): Registered Authentication Agent for unix-session:c14 (system bus name :1.217 [/usr/lib/x86_64-linux-gnu/polkit-mate/polkit-mate-authentication-agent-1], object path /org/mate/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Jun 23 11:16:29 scotty pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Jun 23 11:16:29 scotty pkexec[20228]: nquirk22: Executing command [USER=root] [TTY=unknown] [CWD=/home/nquirk22] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Jun 23 11:16:56 scotty nxexec: pam_unix(nx:session): session closed for user lightdm
+Jun 23 11:16:56 scotty nxexec: pam_unix(nx:session): session opened for user nquirk22 by (uid=122)
+Jun 23 11:16:56 scotty systemd-logind[847]: New session c15 of user nquirk22.
+Jun 23 11:17:01 scotty CRON[20601]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 23 11:17:01 scotty CRON[20601]: pam_unix(cron:session): session closed for user root
+Jun 23 11:17:16 scotty systemd-logind[847]: Removed session c12.
+Jun 23 11:17:16 scotty systemd: pam_unix(systemd-user:session): session closed for user lightdm
+Jun 23 11:34:52 scotty gnome-keyring-daemon[19603]: couldn't allocate secure memory to keep passwords and or keys from being written to the disk
+Jun 23 11:34:52 scotty gnome-keyring-daemon[19603]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Jun 23 11:34:52 scotty gnome-keyring-daemon[19603]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Jun 23 11:39:01 scotty CRON[21281]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 23 11:39:01 scotty CRON[21281]: pam_unix(cron:session): session closed for user root
+Jun 23 12:09:01 scotty CRON[21817]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 23 12:09:01 scotty CRON[21817]: pam_unix(cron:session): session closed for user root
+Jun 23 12:17:01 scotty CRON[22073]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 23 12:17:01 scotty CRON[22073]: pam_unix(cron:session): session closed for user root
+Jun 23 12:39:01 scotty CRON[22547]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 23 12:39:01 scotty CRON[22547]: pam_unix(cron:session): session closed for user root
+Jun 23 12:40:11 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22/eclipse-workspace/progsite ; USER=root ; COMMAND=/bin/chown root:root rotate-authlog
+Jun 23 12:40:11 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 23 12:40:11 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 23 12:56:25 scotty sudo: nquirk22 : TTY=pts/0 ; PWD=/home/nquirk22/eclipse-workspace/progsite ; USER=root ; COMMAND=/usr/sbin/adduser newuser
+Jun 23 12:56:25 scotty sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jun 23 12:56:25 scotty groupadd[22802]: group added to /etc/group: name=newuser, GID=1003
+Jun 23 12:56:25 scotty groupadd[22802]: group added to /etc/gshadow: name=newuser
+Jun 23 12:56:25 scotty groupadd[22802]: new group: name=newuser, GID=1003
+Jun 23 12:56:25 scotty useradd[22807]: new user: name=newuser, UID=1002, GID=1003, home=/home/newuser, shell=/bin/bash
+Jun 23 12:56:39 scotty passwd[22815]: pam_unix(passwd:chauthtok): password changed for newuser
+Jun 23 12:56:39 scotty passwd[22815]: gkr-pam: couldn't update the login keyring password: no old password was entered
+Jun 23 12:56:43 scotty chfn[22821]: changed user 'newuser' information
+Jun 23 12:56:58 scotty sudo: pam_unix(sudo:session): session closed for user root
+Jun 23 12:57:41 scotty sshd[22848]: Invalid user foo from 127.0.0.1 port 34406
+Jun 23 12:57:45 scotty sshd[22848]: pam_unix(sshd:auth): check pass; user unknown
+Jun 23 12:57:45 scotty sshd[22848]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=127.0.0.1
+Jun 23 12:57:47 scotty sshd[22848]: Failed password for invalid user foo from 127.0.0.1 port 34406 ssh2
+Jun 23 12:57:51 scotty sshd[22848]: pam_unix(sshd:auth): check pass; user unknown
+Jun 23 12:57:53 scotty sshd[22848]: Failed password for invalid user foo from 127.0.0.1 port 34406 ssh2
+Jun 23 12:57:57 scotty sshd[22848]: pam_unix(sshd:auth): check pass; user unknown
+Jun 23 12:57:59 scotty sshd[22848]: Failed password for invalid user foo from 127.0.0.1 port 34406 ssh2
+Jun 23 12:57:59 scotty sshd[22848]: Connection closed by invalid user foo 127.0.0.1 port 34406 [preauth]
+Jun 23 12:57:59 scotty sshd[22848]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=127.0.0.1
+Jun 23 12:58:15 scotty sshd[22860]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=127.0.0.1  user=root
+Jun 23 12:58:17 scotty sshd[22860]: Failed password for root from 127.0.0.1 port 34408 ssh2
+Jun 23 12:58:22 scotty sshd[22860]: Failed password for root from 127.0.0.1 port 34408 ssh2
+Jun 23 12:58:23 scotty sshd[22860]: Connection closed by authenticating user root 127.0.0.1 port 34408 [preauth]
+Jun 23 12:58:23 scotty sshd[22860]: PAM 1 more authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=127.0.0.1  user=root
+Jun 23 12:58:41 scotty sshd[22869]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=127.0.0.1  user=newuser
+Jun 23 12:58:42 scotty sshd[22869]: Failed password for newuser from 127.0.0.1 port 34412 ssh2
+Jun 23 12:58:54 scotty sshd[22869]: message repeated 2 times: [ Failed password for newuser from 127.0.0.1 port 34412 ssh2]
+Jun 23 12:58:54 scotty sshd[22869]: Connection closed by authenticating user newuser 127.0.0.1 port 34412 [preauth]
+Jun 23 12:58:54 scotty sshd[22869]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=127.0.0.1  user=newuser
+Jun 23 12:59:05 scotty sshd[22876]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=127.0.0.1  user=newuser
+Jun 23 12:59:07 scotty sshd[22876]: Failed password for newuser from 127.0.0.1 port 34414 ssh2
+Jun 23 12:59:12 scotty sshd[22876]: Failed password for newuser from 127.0.0.1 port 34414 ssh2
+Jun 23 12:59:18 scotty sshd[22876]: Accepted password for newuser from 127.0.0.1 port 34414 ssh2
+Jun 23 12:59:18 scotty sshd[22876]: pam_unix(sshd:session): session opened for user newuser by (uid=0)
+Jun 23 12:59:18 scotty systemd: pam_unix(systemd-user:session): session opened for user newuser by (uid=0)
+Jun 23 12:59:18 scotty systemd-logind[847]: New session 76 of user newuser.
+Jun 23 12:59:25 scotty sshd[22984]: Received disconnect from 127.0.0.1 port 34414:11: disconnected by user
+Jun 23 12:59:25 scotty sshd[22984]: Disconnected from user newuser 127.0.0.1 port 34414
+Jun 23 12:59:25 scotty sshd[22876]: pam_unix(sshd:session): session closed for user newuser
+Jun 23 12:59:25 scotty systemd-logind[847]: Removed session 76.
+Jun 23 12:59:25 scotty systemd: pam_unix(systemd-user:session): session closed for user newuser
+Jun 23 13:01:31 scotty sshd[23036]: Invalid user bar from 2605:0:103:200:144:26:62:134 port 59996
+Jun 23 13:01:36 scotty sshd[23036]: pam_unix(sshd:auth): check pass; user unknown
+Jun 23 13:01:36 scotty sshd[23036]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=2605:0:103:200:144:26:62:134
+Jun 23 13:01:39 scotty sshd[23036]: Failed password for invalid user bar from 2605:0:103:200:144:26:62:134 port 59996 ssh2
+Jun 23 13:01:41 scotty sshd[23036]: pam_unix(sshd:auth): check pass; user unknown
+Jun 23 13:01:43 scotty sshd[23036]: Failed password for invalid user bar from 2605:0:103:200:144:26:62:134 port 59996 ssh2
+Jun 23 13:01:44 scotty sshd[23036]: Connection closed by invalid user bar 2605:0:103:200:144:26:62:134 port 59996 [preauth]
+Jun 23 13:01:44 scotty sshd[23036]: PAM 1 more authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=2605:0:103:200:144:26:62:134
+Jun 23 13:02:02 scotty sshd[23041]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=2605:0:103:200:144:26:62:134  user=newuser
+Jun 23 13:02:05 scotty sshd[23041]: Failed password for newuser from 2605:0:103:200:144:26:62:134 port 59998 ssh2
+Jun 23 13:02:14 scotty sshd[23041]: Accepted password for newuser from 2605:0:103:200:144:26:62:134 port 59998 ssh2
+Jun 23 13:02:14 scotty sshd[23041]: pam_unix(sshd:session): session opened for user newuser by (uid=0)
+Jun 23 13:02:14 scotty systemd: pam_unix(systemd-user:session): session opened for user newuser by (uid=0)
+Jun 23 13:02:14 scotty systemd-logind[847]: New session 78 of user newuser.
+Jun 23 13:02:17 scotty sshd[23117]: Received disconnect from 2605:0:103:200:144:26:62:134 port 59998:11: disconnected by user
+Jun 23 13:02:17 scotty sshd[23117]: Disconnected from user newuser 2605:0:103:200:144:26:62:134 port 59998
+Jun 23 13:02:17 scotty sshd[23041]: pam_unix(sshd:session): session closed for user newuser
+Jun 23 13:02:17 scotty systemd-logind[847]: Removed session 78.
+Jun 23 13:02:43 scotty sshd[23141]: Accepted password for newuser from 2605:0:103:200:144:26:62:134 port 60000 ssh2
+Jun 23 13:02:43 scotty sshd[23141]: pam_unix(sshd:session): session opened for user newuser by (uid=0)
+Jun 23 13:02:43 scotty systemd: pam_unix(systemd-user:session): session opened for user newuser by (uid=0)
+Jun 23 13:02:43 scotty systemd-logind[847]: New session 80 of user newuser.
+Jun 23 13:02:46 scotty sshd[23218]: Received disconnect from 2605:0:103:200:144:26:62:134 port 60000:11: disconnected by user
+Jun 23 13:02:46 scotty sshd[23218]: Disconnected from user newuser 2605:0:103:200:144:26:62:134 port 60000
+Jun 23 13:02:46 scotty sshd[23141]: pam_unix(sshd:session): session closed for user newuser
+Jun 23 13:02:46 scotty systemd-logind[847]: Removed session 80.
+Jun 23 13:02:46 scotty systemd: pam_unix(systemd-user:session): session closed for user newuser
+Jun 23 13:03:09 scotty sshd[23238]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=2605:0:103:200:144:26:62:134  user=root
+Jun 23 13:03:11 scotty sshd[23238]: Failed password for root from 2605:0:103:200:144:26:62:134 port 60002 ssh2
+Jun 23 13:03:13 scotty sshd[23238]: Connection closed by authenticating user root 2605:0:103:200:144:26:62:134 port 60002 [preauth]
+Jun 23 13:03:33 scotty sshd[23244]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=2605:0:103:200:144:26:62:134  user=newuser
+Jun 23 13:03:35 scotty sshd[23244]: Failed password for newuser from 2605:0:103:200:144:26:62:134 port 60006 ssh2
+Jun 23 13:03:40 scotty sshd[23244]: Failed password for newuser from 2605:0:103:200:144:26:62:134 port 60006 ssh2
+Jun 23 13:03:50 scotty sshd[23244]: Connection closed by authenticating user newuser 2605:0:103:200:144:26:62:134 port 60006 [preauth]
+Jun 23 13:03:50 scotty sshd[23244]: PAM 1 more authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=2605:0:103:200:144:26:62:134  user=newuser

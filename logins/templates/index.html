@@ -1,0 +1,27 @@
+{% extends 'base.html' %}
+ 
+{% block subtitle %}- All{% endblock %}
+ 
+{% block content %}
+{% if fails %}
+	<table class="index">
+		<thead>
+			<tr class="index">
+				<th>initiated</th>
+				<th>login</th>
+				<th>ipaddr</th>
+			</tr>
+		</thead>
+		{% for fail in fails %}
+			<tr class="index">
+				<td>{{ fail.initiated }}</td>
+				<td>{{ fail.login }}</td>
+				<td>{{ fail.ip }}</td>
+			</tr>
+		{% endfor %}
+	</table>
+{% else %}
+	<p>No entries are available.</p>
+{% endif %}
+{% endblock %}
+<!-- <a class='details' href="/logins/{{ fail.id }}">{{ fail.login }}</a> -->
